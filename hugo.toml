@@ -1,0 +1,36 @@
+baseURL = 'https://tillmzw.github.io/cursed'
+languageCode = 'de-ch'
+title = 'Curse Of Strahd - Journal'
+theme = 'archie'
+
+
+copyright = "© tillmzw"
+#paginate = 3
+
+[params]
+	mode = "dark" # color-mode → light,dark,toggle or auto
+	useCDN = false
+	subtitle = "Ein Curse of Strahd Kampagnen-Journal."
+	mathjax = false
+	katex = false
+	customcss = ["css/font.css", "css/drama.css"]
+
+[[menu.main]]
+name = "Einträge"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "NPCs"
+url = "/npcs"
+weight = 2
+
+[[menu.main]]
+name = "Orte"
+url = "/locations"
+weight = 3
+
+[[menu.main]]
+name = "?"
+url = "/about"
+weight = 4

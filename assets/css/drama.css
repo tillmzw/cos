@@ -1,0 +1,49 @@
+:root {
+    --maincolor: purple;
+    --darkMaincolor: purple;
+}
+
+html {
+    font-family: "Garamond", serif;
+}
+
+header .main, h1, h2, h3, h4, h5, h6 {
+    font-family: "Garamond Italic", serif;
+}
+
+header .main {
+    font-size: 3em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3, h4, h5, h6 {
+    font-size: 1.5em;
+}
+
+main .toc #TableOfContents {
+    font-size: 1.25em;
+}
+
+header nav {
+    font-size: 1.25em;
+}
+
+header nav a  {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+footer .footer-info {
+    display: none;
+}
