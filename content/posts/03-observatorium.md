@@ -1,9 +1,9 @@
 ---
-title: 'Observatorium'
+title: Observatorium
 date: 2024-08-21
-draft: true
+draft: false
 toc: true
-description: 'Den Hinweisen folgend, erreicht die Gruppe ein ominöses Observatorium.'
+description: Den Hinweisen folgend, erreicht die Gruppe ein ominöses Observatorium.
 ---
 
 ## Die Rückkehr zur Mykonidenkolonie

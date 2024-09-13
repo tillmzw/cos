@@ -1,9 +1,9 @@
 ---
-title: 'Die Mykonidenkolonie'
+title: Die Mykonidenkolonie
 date: 2024-07-22
-draft: true
+draft: false
 toc: true
-description: 'Die Gruppe besucht die Mykoniden und trifft auf grössere Probleme'
+description: Die Gruppe besucht die Mykoniden und trifft auf grössere Probleme
 ---
 
 ## Die Mykonidenkolonie

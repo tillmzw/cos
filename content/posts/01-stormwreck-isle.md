@@ -1,9 +1,9 @@
 ---
-title: 'Stormwreck Isle'
+title: Stormwreck Isle
 date: 2024-07-01
-draft: true
+draft: false
 toc: true
-description: 'Die Gruppe beginnt ihr Abenteuer mit der Landung auf Stormwreck Isle'
+description: Die Gruppe beginnt ihr Abenteuer mit der Landung auf Stormwreck Isle
 ---
 
 ## Ankunft

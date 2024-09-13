@@ -1,7 +1,7 @@
 ---
-title: 'Stormrender'
-draft: true
-description: 'Dragon'
+title: Stormrender
+draft: false
+description: Kurzbeschreibung eines chromatischen Drachens.
 ---
 
 

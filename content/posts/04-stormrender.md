@@ -1,9 +1,9 @@
 ---
-title: 'Stormrender'
+title: Stormrender
 date: 2024-08-30
-draft: true
+draft: false
 toc: true
-description: 'Die Gruppe lernt den aktuellen Bewohner des Observatoriums kennen.'
+description: Die Gruppe lernt den aktuellen Bewohner des Observatoriums kennen.
 ---
 
 
