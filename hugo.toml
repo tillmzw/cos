@@ -1,19 +1,21 @@
 baseURL = 'https://tillmzw.github.io/cursed'
 languageCode = 'de-ch'
-title = 'Curse Of Strahd - Journal'
-theme = 'archie'
-
-
+title = 'CoS Journal'
+theme = 'terminal'
+defaultContentLanguage = 'de'
 copyright = "© tillmzw"
-#paginate = 3
 
 [params]
-	mode = "dark" # color-mode → light,dark,toggle or auto
-	useCDN = false
-	subtitle = "Ein Curse of Strahd Kampagnen-Journal."
-	mathjax = false
-	katex = false
-	customcss = ["css/font.css", "css/drama.css"]
+  fullWidthTheme = false
+  centerTheme = true
+  Toc = true
+  TocTitle = "Inhalt"
+  ReadMore = "--> lesen"
+
+[params.logo]
+  logoText = "Curse of Strahd"
+
+
 
 [[menu.main]]
 name = "Einträge"
