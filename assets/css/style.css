@@ -1,10 +1,19 @@
-body {
-    margin: 0;
-
-    background-image: url('/cos/castle.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 10%;
+.parallax-container {
+    height: 200vh;
+    /* Makes the container twice the viewport height */
+    overflow-y: auto;
 }
 
+.background {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 200px;
+    background-image: url('/cos/castle.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+/*  */

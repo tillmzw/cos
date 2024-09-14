@@ -1,0 +1,43 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM fully loaded');
+
+    // Function to update background position
+    function updateParallax() {
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight;
+      const clientHeight = document.documentElement.clientHeight;
+
+      console.log('Scroll Top:', scrollTop);
+      console.log('Scroll Height:', scrollHeight);
+      console.log('Client Height:', clientHeight);
+
+      if (scrollHeight > clientHeight) {
+        const scrollPercentage = scrollTop / (scrollHeight - clientHeight);
+        console.log('Scroll Percentage:', scrollPercentage);
+
+        const moveDistance = scrollPercentage * 100; // 50px total movement
+        console.log('Move Distance:', moveDistance);
+
+        const background = document.querySelector('.background');
+        if (background) {
+          background.style.transform = `translateY(-${moveDistance}px)`;
+          console.log('Background moved:', moveDistance);
+        } else {
+          console.error('Background element not found');
+        }
+      } else {
+        console.log('Page is not scrollable');
+      }
+    }
+
+    // Add scroll event listener to window
+    window.addEventListener('scroll', function() {
+      console.log('Scroll event fired');
+      updateParallax();
+    });
+
+    // Update on page load
+    updateParallax();
+  });
+</script>
