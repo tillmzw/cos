@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+
+    background-image: url('/cos/castle.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 10%;
+}
+
