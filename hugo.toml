@@ -9,8 +9,8 @@ copyright = "© tillmzw"
   fullWidthTheme = false
   centerTheme = true
   Toc = true
-  TocTitle = "Inhalt"
-  ReadMore = "--> lesen"
+  TocTitle = "Buried Below"
+  ReadMore = "lend me your eyes..."
 
 [params.logo]
   logoText = "Curse of Strahd"
@@ -18,7 +18,7 @@ copyright = "© tillmzw"
 
 
 [[menu.main]]
-name = "Einträge"
+name = "Logs"
 url = "/"
 weight = 1
 
@@ -28,7 +28,7 @@ url = "/npcs"
 weight = 2
 
 [[menu.main]]
-name = "Orte"
+name = "Locations"
 url = "/locations"
 weight = 3
 
