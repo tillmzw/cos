@@ -10,7 +10,7 @@ copyright = "© tillmzw"
   centerTheme = true
   Toc = true
   TocTitle = "Buried Below"
-  ReadMore = "lend me your eyes..."
+  ReadMore = "follow this trail -->"
 
 [params.logo]
   logoText = "Curse of Strahd"
