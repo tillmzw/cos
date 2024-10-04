@@ -1,7 +1,7 @@
 :root {
   --background: #241f31;
-  --foreground: #9a9996;
-  --accent: #a51d2d;
+  --foreground: rgb(221, 221, 221);
+  --accent: #ce1f34;
   --font-size: 1.2rem;
   --line-height: 1.7rem;
   --radius: 8px;
