@@ -33,7 +33,7 @@ After a few more hours, humanoid shapes appear at dusk in front of the group.
 
 ## A Ghostly House
 
-A girl named Rosavald, and her younger brother Thorbold, stand on the road - Thor is crying, Rose trying her best to calm him down. They explain their predicament: apparently, their parents have disappeared hours ago into the basement of their manor up the hill, and now the children are too scared to look for them and search for help elsewhere. There also seems to be no trace of the farmhands or the nursemaid that are employed by the family. [Thaddeus]({{<ref "thaddeus" >}}) tries to calm Thor, but manages only to instill a faint light glow unto a button on his jacket. Suspiciously, the children have no idea where the entrance to the basement could be, but mention their parents are called Gustav and Elisabeth.
+A girl named Rosavalda, and her younger brother Thornboldt, stand on the road - Thorn is crying, Rose trying her best to calm him down. They explain their predicament: apparently, their parents have disappeared hours ago into the basement of their manor up the hill, and now the children are too scared to look for them and search for help elsewhere. There also seems to be no trace of the farmhands or the nursemaid that are employed by the family. [Thaddeus]({{<ref "thaddeus" >}}) tries to calm Thor, but manages only to instill a faint light glow unto a button on his jacket. Suspiciously, the children have no idea where the entrance to the basement could be, but mention their parents are called Gustav and Elisabeth Durst.
 
 As the children lead the adventurers up the hill to their manor, they seem to be oblivous to the fact that the stables and the servants house are in ruins, while the large manor in Victorian style stands out meticulously from the dilapidated buildings. Rose and Thor are too scared to enter the house, so they remain on the front porch, while the adventurers venture inside.
 
@@ -43,7 +43,7 @@ In an adjacent room, glasses are clinking - as soon as [Benjamin]({{<ref "benjam
 
 Another room holds cloaks, which are quickly distributed among the adventurers to at least look half decent; [Reese]({{<ref "reese" >}}) brings one out to the children for warmth.
 
-Someone in the family seems to be a hunter: yet another room holds hunting trophies, stuffed wolves and two cabinets. One is unlocked, and [Ilzeiros]({{<ref "ilzeiros" >}}) extracts an unfamiliar deck of cards, but the combined efforts ar enot enough to open the lock on the other cabinet, displaying parts of a crossbow. As the four weary adventurers leave the room, [Thaddeus]({{<ref "thaddeus" >}}) notices that the wolves seem to have changed positions to encircle the party in the room and quickly closes the door to the hunting room.
+Someone in the family seems to be a hunter: yet another room holds hunting trophies, stuffed wolves and two cabinets. One is unlocked, and [Ilzeiros]({{<ref "ilzeiros" >}}) extracts an unfamiliar deck of cards, but the combined efforts ar e not enough to open the lock on the other cabinet, displaying parts of a crossbow. As the four weary adventurers leave the room, [Thaddeus]({{<ref "thaddeus" >}}) notices that the wolves seem to have changed positions to encircle the party in the room and quickly closes the door to the hunting room.
 
 The last visible room on the ground floor is a kitchen with a pantry: atypically, the pantry is empty and the kitchen appears unused and lacks any form of weapon-grade knives.
 
