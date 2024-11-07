@@ -21,19 +21,19 @@ Having regained some of their energy the party continues further into the baseme
 ## The Reliquary
 
 Coming down the stairs, the murmuring gets louder and becomes intelligable. It sounds like a dozen voices repeating "He is the ancient, He is the land ..." over and over again. At the bottom of the stairs the room widens into a large chamber with columns holding up the ceiling. Shelves along the walls hold a plethora of strange and mysterious objects:
-• A vial of coagulated blood
-• A lock of auburn hair, woven into a figure eight
-• A shriveled severed finger
-• A sun symbol made from woven wicker
-• A patch of dried human skin
-• A vial of murky swamp water
-• The severed claw of a raven
-• A black twig with blood-red thorns
-• A dragon’s tooth wrapped in silver wire
-• The tattered remains of a large bird feather
-• A shard of amber
-• A dried bouquet of wolf’s bane
-• The desiccated ear of an elf
+- A vial of coagulated blood
+- A lock of auburn hair, woven into a figure eight
+- A shriveled severed finger
+- A sun symbol made from woven wicker
+- A patch of dried human skin
+- A vial of murky swamp water
+- The severed claw of a raven
+- A black twig with blood-red thorns
+- A dragon’s tooth wrapped in silver wire
+- The tattered remains of a large bird feather
+- A shard of amber
+- A dried bouquet of wolf’s bane
+- The desiccated ear of an elf
 
 [Reese]({{< ref "reese" >}}) reaches out with his arcane senses to see if any of the objects are magical and then takes the shriveled finger and the shard of amber. Unbeknownst to the rest of the party, [Reese]({{< ref "reese" >}}) also realizes, that the cards each of them had revieved, are pulsing with magical energy. The party continues in the direction of the chanting. 
 
