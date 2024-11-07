@@ -20,7 +20,7 @@ Having regained some of their energy the party continues further into the baseme
 
 ## The Reliquary
 
-Coming down the stairs, the murmuring gets lowder and becomes intelligable. It sounds like a dozen voices repeating "He is the ancient, He is the land ..." over and over again. At the bottom of the stairs the room widens into a large chamber with columns holding up the ceiling. Shelves along the walls hold a plethora of strange and mysterious objects:
+Coming down the stairs, the murmuring gets louder and becomes intelligable. It sounds like a dozen voices repeating "He is the ancient, He is the land ..." over and over again. At the bottom of the stairs the room widens into a large chamber with columns holding up the ceiling. Shelves along the walls hold a plethora of strange and mysterious objects:
 • A vial of coagulated blood
 • A lock of auburn hair, woven into a figure eight
 • A shriveled severed finger
