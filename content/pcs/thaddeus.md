@@ -1,9 +1,11 @@
 ---
 title: Thaddeus Clockshade
 toc: false
-description: A carpenter from Daggerfall.
+showFullContent: true
 ---
 
-## Thaddeus Clockshade
+A carpenter from Daggerfall, skilled in fine wood work with a special touch.
 
-Son to a carpenter's family.
+---
+
+:arrow_right: *[Character Sheet](https://www.dndbeyond.com/characters/125698215)*

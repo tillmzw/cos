@@ -1,7 +1,7 @@
 ---
 title: Ilizeiros
 toc: false
-description:
+showFullContent: true
 ---
 
 Conspicuously absorbed with his sword.

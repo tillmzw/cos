@@ -1,7 +1,11 @@
 ---
 title: Reese Hillridge
 toc: false
-description: A quiet, bald man.
+showFullContent: true
 ---
 
-## Reese Hillridge
+A quiet, bald man, wearing simple robes.
+
+---
+
+:arrow_right: *[Character Sheet](https://www.dndbeyond.com/characters/126593797)*

@@ -1,9 +1,10 @@
 baseURL = 'https://tillmzw.github.io/cos'
-languageCode = 'de-ch'
+languageCode = 'en-us'
 title = 'CoS Journal'
 theme = 'terminal'
-defaultContentLanguage = 'de'
+defaultContentLanguage = 'en'
 copyright = "© tillmzw"
+enableEmoji = true
 
 [params]
   fullWidthTheme = false
@@ -14,7 +15,6 @@ copyright = "© tillmzw"
 
 [params.logo]
   logoText = "Curse of Strahd"
-
 
 
 [[menu.main]]
@@ -31,7 +31,6 @@ weight = 2
 name = "Locations"
 url = "/locations"
 weight = 3
-
 
 [[menu.main]]
 name = "Characters"
