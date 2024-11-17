@@ -26,17 +26,15 @@ They land and see the doors to the estate closing. The run and manage to escape 
 
 The party is passed by a hearse who leaves behind food.
 
-The party eats it despite slight reservations and sees a village in the distance.
+The party eats it despite slight reservations and while eating they see a village in the distance through the fog.
 
 They walk for half an hour and enter the village. Its a depressing sight. Half the houses seem to be empty and many windows are boarded up.
 
 They arrive at the center of the village where there is a shop and a tavern.
 
-In the tavern called the "Blood on the vine". There they meet the barkeeper Arik and order some food and wine. They are joined by Ismark the lesser who is mocked by the three owners of the tavern Alenka, Mirabell and Sorvia.
+The tavern is called the "Blood on the Vine". There they meet the barkeeper Arik and order some food and wine. They are joined by Ismark the lesser who is mocked by the three owners of the tavern Alenka, Mirabell and Sorvia.
 
-Ismark explains some things to the party: They are in the village of Barovia in the land of Barovia.
-
-Ismark is the son of the Burgomeister of the village. His father Kolina has died.
+Ismark explains some things to the party: They are in the village of Barovia in the land of Barovia. He confirms the location of the land as on the sword coast and the year as the current year. Ismark is the new Burgomeister of the village. His father Kolina - the old Burgomeister - has died a few days ago.
 
 He needs help burying him.
 
