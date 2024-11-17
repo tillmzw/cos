@@ -62,7 +62,7 @@ Ismark explains to them that this is the castle Ravenloft.
 
 There are many freshly dug grave despite there not having been burial ceremonies for a while
 
-They meet the priest of the chruch - Fathe Donavich and he explains to them that some people have been buried without ceremony.
+They meet the priest of the church - Fathe Donavich and he explains to them that some people have been buried without ceremony.
 
 When they start burying Kolina, a dark carriage arrives.
 
