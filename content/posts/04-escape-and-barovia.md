@@ -38,7 +38,7 @@ Ismark explains some things to the party: They are in the village of Barovia in 
 
 He needs help burying him.
 
-Another problem is that the mysterious lord of the land (Lord Strahd) has taken an interest in the sister of Ismark - Irina.
+Another problem is that the mysterious lord of the land (Lord Strahd) has taken an interest in the adopted stepsister of Ismark - Irina.
 
 Apparently he talked to her multiple nights and the manor of the Burgomeister was attacked in these nights by unknown creatures.
 
