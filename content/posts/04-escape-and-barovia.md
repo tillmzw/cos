@@ -10,6 +10,8 @@ description: "The party escapes from durst manor and enters Barovia"
 
 The party runs for their lives. First they open the portcullis to the room where they killed the monstrosity thanks to the help of the magic of the artificer Thaddeus.
 
+They also encounter spiders attacking them with webs which Ilizeyros luckily manages to burn.
+
 Then they go upstairs where they see a group of ghosts reenacting the birth of Walther. The door to the balcony from this room is blocked by scythes.
 
 The scythes swing back and forth in the rythm of the contraptions of the ghost Lady Durst.
