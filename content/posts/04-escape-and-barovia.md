@@ -56,13 +56,13 @@ Ismark and his very beautiful sister Irina are there together with the body of t
 
 The party and the two carry the coffin to the church north of the village.
 
-While climbing the small hill part of the fog lifts and they see a mighty castle further north of the village on a cliff above a forrest.
+While climbing the small hill part of the fog lifts and they see a mighty castle further north of the village on a cliff above a forest.
 
 Ismark explains to them that this is the castle Ravenloft.
 
 There are many freshly dug grave despite there not having been burial ceremonies for a while
 
-They meet the priest of the church - Fathe Donavich and he explains to them that some people have been buried without ceremony.
+They meet the priest of the church - Father Donavich - and he explains to them that some people have been buried without ceremony.
 
 When they start burying Kolina, a dark carriage arrives.
 
