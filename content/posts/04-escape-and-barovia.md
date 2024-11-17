@@ -32,9 +32,9 @@ They walk for half an hour and enter the village. Its a depressing sight. Half t
 
 They arrive at the center of the village where there is a shop and a tavern.
 
-In the tavern called the blood on the vine they meet Ismark the lesser who asks them to join him and explains some things to the party.
+In the tavern called the "Blood on the vine". There they meet the barkeeper Arik and order some food and wine. They are joined by Ismark the lesser who is mocked by the three owners of the tavern Alenka, Mirabell and Sorvia.
 
-They are in the village of Barovia in the land of Barovia.
+Ismark explains some things to the party: They are in the village of Barovia in the land of Barovia.
 
 Ismark is the son of the Burgomeister of the village. His father Kolina has died.
 
