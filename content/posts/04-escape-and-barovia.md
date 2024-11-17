@@ -60,7 +60,7 @@ While climbing the small hill part of the fog lifts and they see a mighty castle
 
 Ismark explains to them that this is the castle Ravenloft.
 
-There are many freshly dug grave despite there not having been burial ceremonies for a while
+There are many freshly dug graves despite there not having been burial ceremonies for a while
 
 They meet the priest of the church - Father Donavich - and he explains to them that some people have been buried without ceremony.
 
