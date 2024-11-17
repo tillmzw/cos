@@ -28,7 +28,7 @@ The party is passed by a hearse who leaves behind food.
 
 The party eats it despite slight reservations and while eating they see a village in the distance through the fog.
 
-They walk for half an hour and enter the village. Its a depressing sight. Half the houses seem to be empty and many windows are boarded up.
+They walk for half an hour before reaching the village. While walking they notice that the stuff they took from the mansion is aging fast but remains usable. They enter the village and its a depressing sight. Half the houses seem to be empty and many windows are boarded up.
 
 They arrive at the center of the village where there is a shop and a tavern.
 
