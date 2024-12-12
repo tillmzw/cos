@@ -32,17 +32,17 @@ They walk for half an hour before reaching the village. While walking they notic
 
 They arrive at the center of the village where there is a shop and a tavern.
 
-The tavern is called the "Blood on the Vine". There they meet the barkeeper Arik and order some food and wine. They are joined by Ismark the lesser who is mocked by the three owners of the tavern Alenka, Mirabell and Sorvia.
+The tavern is called the "Blood on the Vine". There they meet the barkeeper Arik and order some food and wine. They are joined by [Ismark]({{< ref "ismark-kolyanovich" >}}) "the Lesser" who is mocked by the three owners of the tavern Alenka, Mirabell and Sorvia.
 
-Ismark explains some things to the party: They are in the village of Barovia in the land of Barovia. He confirms the location of the land as on the sword coast and the year as the current year. Ismark is the new Burgomeister of the village. His father Kolyan - the old Burgomeister - has died a few days ago.
+[Ismark]({{< ref "ismark-kolyanovich" >}}) explains some things to the party: They are in the village of [Barovia]({{< ref "barovia" >}}) in the land of Barovia. He confirms the location of the land as on the sword coast and the year as the current year. [Ismark]({{< ref "ismark-kolyanovich" >}}) is the new Burgomeister of the village. His father Kolyan - the old Burgomeister - has died a few days ago.
 
 He needs help burying him.
 
-Another problem is that the mysterious lord of the land (Lord Strahd) has taken an interest in the adopted stepsister of Ismark - Irina.
+Another problem is that the mysterious lord of the land (Lord Strahd) has taken an interest in the adopted stepsister of [Ismark]({{< ref "ismark-kolyanovich" >}}) - [Ireena]({{< ref "ireena-kolyana" >}}).
 
 Apparently he talked to her multiple nights and the manor of the Burgomeister was attacked in these nights by unknown creatures.
 
-Ismark invites the party to his manor but the party prefers to sleep in the inn and promises him to visit Ismark the following morning.
+[Ismark]({{< ref "ismark-kolyanovich" >}}) invites the party to his manor but the party prefers to sleep in the inn and promises him to visit [Ismark]({{< ref "ismark-kolyanovich" >}}) the following morning.
 
 Before going to bed, the party goes to the shop and discovers that all the goods are ourageously expsensive.
 
@@ -52,17 +52,17 @@ Only [Thaddeus]({{< ref "thaddeus" >}}) buys a wetstone and starts working on a 
 
 The next morning the group travels to the Burgomeisters mansion. It clearly has been attacked by wolf-like creatures. There are claw-marks on the outside of the building.
 
-Ismark and his very beautiful red haired sister Irina are there together with the body of their father. Ismark wants to get Irina to safety. He suggests the neighbouring town of Vallakia. She however doesn't want to leave without having buried her father.
+[Ismark]({{< ref "ismark-kolyanovich" >}}) and his very beautiful red haired sister [Ireena]({{< ref "ireena-kolyana" >}}) are there together with the body of their father. [Ismark]({{< ref "ismark-kolyanovich" >}}) wants to get [Ireena]({{< ref "ireena-kolyana" >}}) to safety. He suggests the neighbouring town of [Vallaki]({{< ref "vallaki" >}}). She however doesn't want to leave without having buried her father.
 
 The party and the two carry the coffin to the church north of the village.
 
 While climbing the small hill part of the fog lifts and they see a mighty castle further north of the village on a cliff above a forest.
 
-Ismark explains to them that this is the castle Ravenloft.
+[Ismark]({{< ref "ismark-kolyanovich" >}}) explains to them that this is the castle Ravenloft.
 
 There are many freshly dug graves despite there not having been burial ceremonies for a while
 
-They meet the priest of the church - Father Donavich - and he explains to them that some people have been buried without ceremony.
+They meet the priest of the church - [Father Donavich]({{< ref "father-donavich" >}}) - and he explains to them that some people have been buried without ceremony.
 
 When they start burying Kolina, a black carriage arrives pulled by skeletal horses.
 
