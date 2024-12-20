@@ -1,10 +1,10 @@
 ---
-title: Thaddeus Clockshade
+title: Thaddeus
 toc: false
 showFullContent: true
 ---
 
-A carpenter from Daggerfall, skilled in fine wood work with a special touch.
+Thaddeus Clockshade is a carpenter from Daggerfall, skilled in fine wood work with a special touch.
 
 ---
 

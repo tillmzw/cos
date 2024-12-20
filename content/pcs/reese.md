@@ -1,10 +1,10 @@
 ---
-title: Reese Hillridge
+title: Reese
 toc: false
 showFullContent: true
 ---
 
-A quiet, bald man, wearing simple robes.
+Reese Hillridge is a quiet, bald man, wearing simple robes.
 
 ---
 

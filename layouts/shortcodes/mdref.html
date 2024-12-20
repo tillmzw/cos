@@ -1,0 +1,50 @@
+{{- /*
+    mdref shortcode creates a markdown-compatible link to a reference using Hugo's ref shortcode
+    
+    Parameters:
+      First positional or $path: (required) Path to the page to link to
+      Second positional or $title: (optional) Custom link text. If not provided, uses the linked page's title
+      
+    Usage:
+      {{\< mdref "/posts/my-post" \>}}                -> [My Post Title](/posts/my-post)
+      {{\< mdref "/posts/my-post" "Link" \>}}         -> [Link](/posts/my-post)
+      {{\< mdref path="/posts/my-post" \>}}           -> [My Post Title](/posts/my-post)
+      {{\< mdref path="/posts/my-post" title="Link" \>}} -> [Link](/posts/my-post)
+      
+  */ -}}
+  
+  {{- /* Get path from either positional or named parameter */ -}}
+  {{- $path := "" -}}
+  {{- if .IsNamedParams -}}
+    {{- $path = .Get "path" -}}
+  {{- else -}}
+    {{- $path = .Get 0 -}}
+  {{- end -}}
+  
+  {{- /* Validate path parameter */ -}}
+  {{- if not $path -}}
+    {{- errorf "mdref shortcode requires a path parameter (either positional or named with 'path=')" -}}
+  {{- end -}}
+  
+  {{- /* Get title from either positional or named parameter */ -}}
+  {{- $title := "" -}}
+  {{- if .IsNamedParams -}}
+    {{- $title = .Get "title" -}}
+  {{- else -}}
+    {{- $title = .Get 1 -}}
+  {{- end -}}
+  
+  {{- /* If no title provided, try to get the linked page's title */ -}}
+  {{- if not $title -}}
+    {{- with .Site.GetPage $path -}}
+      {{- $title = .Title -}}
+    {{- else -}}
+      {{- errorf "mdref shortcode: Could not find page at path '%s'" $path -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Generate the URL using Hugo's ref function */ -}}
+  {{- $url := ref . $path -}}
+  
+  {{- /* Output the markdown link */ -}}
+  [{{ $title }}]({{ $url }})

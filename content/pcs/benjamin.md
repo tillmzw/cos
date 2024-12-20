@@ -1,10 +1,10 @@
 ---
-title: Benjamin Graham
+title: Benjamin
 toc: false
 showFullContent: true
 ---
 
-A ranger, clad in hunting gear.
+Benjamin Graham is a ranger, clad in hunting gear.
 
 ---
 
