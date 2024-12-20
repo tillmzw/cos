@@ -8,7 +8,7 @@ description: "The party brings the priest and his son to justice and have their 
 
 ## Doru
 
-## The Reading
+## Fate unveiled
 
 Madam Eva places the first card down "This card tells of history. Knowledge of the ancient will help you better understand your enemy". She flips it over to reveal the three of coins, the trader, and goes on: "I see the best merchants in all the land! But they are the victims of a great theft! Stop the thieves, retrieve what was stolen, and the merchants shall reward you dearly."
 
