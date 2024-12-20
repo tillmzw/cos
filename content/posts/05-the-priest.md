@@ -9,20 +9,20 @@ description: "The party attends a funeral with mysterious guests and investigate
 
 ## The Burgomaster's Funeral
 
-A chilling scene unfolded at the burgomaster's funeral. A carriage, drawn by skeletal horses, arrived, and a tall, slender figure emerged. [Ireena]({{< ref "ireena-kolyana" >}}), stunned by the apparition, watched as  [Father Donavich]({{< ref "father-donavich" >}}) clutched his holy symbol. [Ismark]({{< ref "ismark-kolyanovich" >}}), the burgomaster's son, demanded that the stranger leave, declaring the funeral a private affair.
-The mysterious figure introduced himself as Rahadin, chamberlain to the infamous [Lord Strahd]({{< ref "strahd-of-zarovich" >}}). He lays down a flower on the old Burgomasters grace and mentiones to [Ismark]({{< ref "ismark-kolyanovich" >}}), that he hopes, that as the new Burgomaster he will do better work than his father. 
+A chilling scene unfolded at the burgomaster's funeral. A carriage, drawn by skeletal horses, arrived, and a tall, slender figure emerged. {{% mdref ireena-kolyana %}}, stunned by the apparition, watched as  [Father Donavich]({{< ref "father-donavich" >}}) clutched his holy symbol. {{% mdref ismark-kolyanovich %}}, the burgomaster's son, demanded that the stranger leave, declaring the funeral a private affair.
+The mysterious figure introduced himself as Rahadin, chamberlain to the infamous [Lord Strahd]({{< ref "strahd-of-zarovich" >}}). He lays down a flower on the old Burgomasters grace and mentiones to {{% mdref ismark-kolyanovich %}}, that he hopes, that as the new Burgomaster he will do better work than his father. 
 After being questioned, what was wrong with the old Burgomaster, Rahadin revealed a disturbing truth: villagers had been vanishing, their bodies found mutilated by claw and bite marks.
 
 ## Investigations In Barovia
 
-The funeral concluded abruptly, and the group, including [Ireena]({{< ref "ireena-kolyana" >}}) and [Ismark]({{< ref "ismark-kolyanovich" >}}), returned to the manor. [Ismark]({{< ref "ismark-kolyanovich" >}}) explained that the victims had been attacked by a monstrous creature, leaving behind bite and claw marks. The latest victim was Gregor Stanovich. He also revealed that the gypsies, which brought the group here were called Vistani, a nomadic tribe who were the only ones capable of leaving [Barovia]({{< ref "barovia" >}}).
-The group learned that [Lord Strahd]({{< ref "strahd-of-zarovich" >}}) was a vampire, a creature of darkness with a thirst for blood. [Ismark]({{< ref "ismark-kolyanovich" >}}) tasked them with escorting [Ireena]({{< ref "ireena-kolyana" >}}) to [Vallaki]({{< ref "vallaki" >}}), a village one day northwest of [Barovia]({{< ref "barovia" >}}).
+The funeral concluded abruptly, and the group, including {{% mdref ireena-kolyana %}} and {{% mdref ismark-kolyanovich %}}, returned to the manor. {{% mdref ismark-kolyanovich %}} explained that the victims had been attacked by a monstrous creature, leaving behind bite and claw marks. The latest victim was Gregor Stanovich. He also revealed that the gypsies, which brought the group here were called Vistani, a nomadic tribe who were the only ones capable of leaving {{% mdref barovia %}}.
+The group learned that [Lord Strahd]({{< ref "strahd-of-zarovich" >}}) was a vampire, a creature of darkness with a thirst for blood. {{% mdref ismark-kolyanovich %}} tasked them with escorting {{% mdref ireena-kolyana %}} to {{% mdref vallaki %}}, a village one day northwest of {{% mdref barovia %}}.
 Before their departure, the group decided to return the dog named Lancelot to its owner. They arrived at the "Whining House," a dilapidated building inhabited by a distraught old woman, in the village referred to as [Mad Mary]({{< ref "mad-mary" >}}). She claimed that her daughter, Gertruda, had vanished, and she had seen a dark figure dragging bodies through the night. After some persuasion, she handed over a strange doll belonging to her daughter with a cryptic inscription:
 
 *"Is no fun, is no Blinsky"*
 
 Determined to find Gertruda and uncover the mystery of the missing villagers, the group investigated Gregor Stanovich's abandoned house. They discovered a silver necklace with a religious symbol, suggesting a violent struggle.
-Seeking answers, the group visited a local tavern, where they encountered a trio of Vistani. The Vistani were unable to provide specific information but suggested that Madame Eva, a wise woman living outside of [Barovia]({{< ref "barovia" >}}), might be able to help with the question, how the group got to [Barovia]({{< ref "barovia" >}}) in the first plave.
+Seeking answers, the group visited a local tavern, where they encountered a trio of Vistani. The Vistani were unable to provide specific information but suggested that Madame Eva, a wise woman living outside of {{% mdref barovia %}}, might be able to help with the question, how the group got to {{% mdref barovia %}} in the first plave.
 
 ## Return To The Church
 
