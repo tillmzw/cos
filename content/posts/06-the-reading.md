@@ -22,7 +22,7 @@ As they arrive in a Vistani camp consisting of five colorful tents, they get hel
 
 ## Fate Unveiled
 
-{{% mdref madam-eva %}} presses the adventurers to tell them of their destiny, using her Taroka deck. She places the first card down. 
+{{% mdref madam-eva %}} remarks that she expected only three people to show up, yet somehow there are four. Nevertheless she presses the adventurers to tell them of their destiny, using her Taroka deck. She places the first card down. 
 
 > *This card tells of history. Knowledge of the ancient will help you better understand your enemy.*
 
