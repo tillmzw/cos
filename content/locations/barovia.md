@@ -3,7 +3,13 @@ title: Barovia
 date: 2024-12-12
 draft: false
 toc: false
-description: A village, plagued by poverty, dispair and disappearances
+description: Both the name of the region and a village, plagued by poverty, dispair and disappearances
 ---
 
-Home of Ismark, Ireena, Father Donavich, Mad Mary and other villagers.
+## Region
+
+The duchy of Barovia is under the rule of {{% mdref strahd-of-zarovich "Lord Strahd" %}} since hundreds of years.
+
+## Village
+
+The village of Barovia is a dilapidated village, seemingly on the brink of abandonment. It is also home of {{% mdref ismark-kolyanovich %}}, {{% mdref ireena-kolyana %}}, {{% mdref father-donavich %}}, {{% mdref mad-mary %}} and a few other villagers.
