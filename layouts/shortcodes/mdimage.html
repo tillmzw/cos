@@ -1,0 +1,31 @@
+
+{{- /* Get src from either positional or named parameter */ -}}
+{{- $src := "" -}}
+{{- if .IsNamedParams -}}
+    {{- $src = .Get "src" -}}
+{{- else -}}
+    {{- $src = .Get 0 -}}
+{{- end -}}
+
+{{- if not $src -}}
+    {{- errorf "mdimage shortcode: Need a src parameter" -}}
+{{- end -}}
+
+{{- /* Get title from either positional or named parameter */ -}}
+{{- $title := "" -}}
+{{- if .IsNamedParams -}}
+  {{- $title = .Get "title" -}}
+{{- else -}}
+  {{- $title = .Get 1 -}}
+{{- end -}}
+
+{{- if not $title -}}
+    {{- $title := "" -}}
+{{- end -}}
+
+
+[![{{ $title }}]({{ $src | safeURL }})]({{ $src | safeURL }})
+
+{{- if $title -}}
+*{{ $title }}*
+{{- end -}}
