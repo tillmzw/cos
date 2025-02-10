@@ -1,7 +1,7 @@
 ---
 title: Wine for the Festival
 date: 2025-02-07
-draft: true
+draft: false
 toc: true
 description: "Barrels of wine, tainted by roots and ruin, weep silently."
 ---
