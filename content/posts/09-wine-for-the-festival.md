@@ -16,7 +16,7 @@ The group slips through the secret door, sealing it behind them without being se
 
 ## The Fate of Dag Tomesko
 
-From here, they proceed cautiously toward the kitchen, where Stefania shares the vanishing of her husband, **Dag Tomesko**. 
+From here, they proceed cautiously toward the kitchen, where Stefania tells about the vanishing of her husband, **Dag Tomesko**. 
 He had volunteered to scout the winery after it was overrun but has not been heard from since.
 
 Determined to uncover the truth, the group presses into a hallway. 
