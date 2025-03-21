@@ -8,7 +8,7 @@ description: "Benjamin rejoins the party and questions are answered."
 
 ## Flashback to Benjamin 
 
-Benjamin was bandaged up by Danika. He wakes up later and is interrogated by two shady figures. They ask him questions like "Where are you from?" and "Where did you get that ring from". Benjamin is wearing a ring a raven symbol. They take it from him and give him a potion that painfully turns him into a raven.
+{{% mdref Benjamin %}} was bandaged up by {{% mdref Danika-Martikov %}}. He wakes up later and is interrogated by two shady figures. They ask him questions like "Where are you from?" and "Where did you get that ring from". Benjamin is wearing a ring a raven symbol. They take it from him and give him a potion that painfully turns him into a raven.
 
 He flies east and is joined by an unkindness of ravens. While trying to approach the party Thaddeus kills a raven flying next to Benjanmin. He enters the winery, sits on a beam and watches events unfold.
 
@@ -29,5 +29,3 @@ They enter Vallik from the Western gate and get an extensive introduction to its
 The "festival of the blazing sun" is happening soon and attendance is mandatory.
 
 In addition a "Lady Wachter" is inviting the group for lunch.
-
-
