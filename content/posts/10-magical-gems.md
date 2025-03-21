@@ -8,7 +8,7 @@ description: "Benjamin rejoins the party and questions are answered."
 
 ## Flashback to Benjamin 
 
-{{% mdref Benjamin %}} was bandaged up by {{% mdref Danika-Martikov %}}. He wakes up later and is interrogated by two shady figures. They ask him questions like "Where are you from?" and "Where did you get that ring from". Benjamin is wearing a ring a raven symbol. They take it from him and give him a potion that painfully turns him into a raven.
+{{% mdref Benjamin %}} was bandaged up by {{% mdref danika-martikov %}}. He wakes up later and is interrogated by two shady figures. They ask him questions like "Where are you from?" and "Where did you get that ring from". Benjamin is wearing a ring a raven symbol. They take it from him and give him a potion that painfully turns him into a raven.
 
 He flies east and is joined by an unkindness of ravens. While trying to approach the party Thaddeus kills a raven flying next to Benjanmin. He enters the winery, sits on a beam and watches events unfold.
 
