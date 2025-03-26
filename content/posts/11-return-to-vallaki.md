@@ -1,0 +1,42 @@
+---
+title: Return to Vallaki
+date: 2025-03-20
+draft: true
+toc: true
+description: "A few visits are in order upon returning to Vallaki."
+---
+
+## Return to Vallaki
+
+Upon entering the city, a messenger hands the party an invite to lunch at one Lady Wachters estate; having nothing better to do, the party agrees to see her and is looking forward to a proper meal. Every other person in the city of Vallaki is busy preparing for the imminent festival, carrying around things like bundles of wicker.
+
+The party returns to the Blue Water Inn, bringing with them the wagon full of wine barrels saveed from the winery; they are followed by **Elvyr Martikov** and a murder of crows. As they enter the inn, a figure catches their attention: a tall bald man, covered in scars, carrying a large battle axe on his back and accompanied by a few town guardsmen, is talking to the inn keep **Urvin Martikov**. Unfazed by the mans menacing presence, the party presses forward and approaches Urvin to let him know that the wine is safely returned; Urvin is relieved, and the man is content - apparently holding Urvin responsible for wine supplies for the festival. As him and the accompanying townguards leave, Urvin explains that the man is called **Izek**, and is **Barvon Vallakovich**'s most prominent enforcer.
+
+Having forgotten the laws of city barely a few minutes after reading them, Benjamin inquires Urvin about Lord Strahd - as immediate discomfort crosses his face, he talks around it, covering up the unlawful mentioning of "*the Devil*". Benjamin notices his misstep and offers the whole tavern a round and is greeted with toasts all around.
+
+After things have calmed down, Benjamin catches up on shopping and searches the city for supplies. On his way back he notices a colorful wagon labelled in fading golder letterin *Rictavios Carnival of Wonders*, presumably carrying carnival supplies. Upon closer inspection however something large and inhuman stirs inside the wagon. On the wagon there is faint writing in dried blood: 
+
+> I bring you from shadow into light
+
+Deciding to not further risk the wrath of the owner of the cart or the thing inside it, Benjamin returns to the inn. According to the inn keep creatures - particularly not dangerous ones - are not commonly part of the festival... 
+
+Around a table at the inn, the party finds a colorful man, easily identified as **Rictavio**, telling stories to commoners. Benjamin approaches and asks about his trade and purpose in the city. **Rictavio** asserts that he is here to tell stories about his travels - he doesn't strike anyone as the monster trading type.
+
+## Lunch with Lady Wachter
+
+As lunch time approaches, the party makes their way to **Lady Wachter**s estate which turns out to be a very old house, overgrown and almost eliciting the feeling it is *disgusted with itself*. As they use the door knocker (shaped like a wolf's head), her servant - the same that delivered the invitation at the city gates - opens the door and bids them inside. Inside, the house retains the old and aged look, but is better kept. The servant leads the party into a dining hall with a central ornate dining table, already set with tableware. Interestingly, this tableware shows clear sign of age and has broken edges and small cracks.
+
+As they enter, they notice an older woman waiting on a couch which introduces herself as **Fiona Wachter**. She wears nice clothing and her hair in a tight bun and has piercing dark eyes and seems to wear an everlasting smirk. As smalltalk commences, she mentions her husband and three children, all of which are currently *unavailable*. Under the guise of philosophical questions, she hypothesizes about just rulers and seems to imply that there is a different perspective to the people's discontent of **Lord Strahd**s rule. The baron's enforcer **Izek** is the only thing keeping the baron in power she claims. During the conversation it becomes clear that she is neither afraid of the **Baron Vallakovich** nor **Lord Strahd** and has no issues talking about them openly - as opposed to **Urvin Martikov** at the inn. She explains that her family would be a suitable successors to the Barons rule over Vallaki. Suddenly she is called upon by her servant is needs to leave for urgent business her daughter, **Stella**. As Fiona returns, Reese somehow convinces her to try to help her daughter who seems to be upstairs in a room, ill for a long time. 
+
+As Reese is led to her room, he finds a completely dark room and inside a young woman behaving and moving like a cat. Reese manages to find out that she has been like this ever since she returned from her engagement with **Baron Vallakovich's son**. Stella also has no concept or recollection of her family. Reese detects traces of a transformative curse on her, and decides to further investigate. He convinces Stella that no harm will come to her from the Baron's son and she is noticably relieved.
+Fiona is not surprised and does not appear disappointed that Reese failed to heal Stella from her condition - apparently she has made her peace with her daughter's condition, but also suggests that the abbot in **Kresk** may help with curses.
+
+Finally, after a lavish meal, Fiona suggests the party inspect the town square and attend the festival to find dissatisfaction among the populace - and to come back to her should they consider ending **Vallakovich**'s rule by removing **Izek**.
+
+## City Strolling
+
+The party returns to the open streets and turns towards the town square. On their way, they find a familiar phrase on one of the shops: 
+
+> Is no fun, is no Blinsky
+
+Intrigued, they enter, to find the shopkeeper called **Blinsky**. His store has lots of toys, and a surprising amount of ventriloquist dolls. One of them looks eerily alike to **Ireena Kolyana**. As Blinsky shows them around the store, Thaddeus takes the opportunity and enchants the Ireena-looking doll to mutter *Save Barovia* upon touching it. He then turns to Blinsky and buys a doll of **Lord Strahd**. 
