@@ -6,6 +6,16 @@ description: Influential citizens of Vallaki and owners of the region's only vin
 
 ## Urvin
 
+Innkeep of the Blue Water Inn in {{% mdref vallaki %}}.
+
 ## Elvyr
 
 ## Danika
+
+## Davian
+
+Aged man, owner of the vineyard.
+
+## Adrian
+
+## Stefania
