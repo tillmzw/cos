@@ -12,6 +12,8 @@
   {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme
   | default false) "container center" "container") }}
 
+  <img class="castle" src="/cos/castle.png">
+
   <div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
 
     {{ partial "header.html" . }}
