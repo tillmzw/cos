@@ -10,7 +10,7 @@ description: Both the name of the region and a village, plagued by poverty, disp
 
 The duchy of Barovia is under the rule of {{% mdref strahd-of-zarovich "Lord Strahd" %}} since hundreds of years.
 
-{{% mdimage "/cos/map-barovia.png" "Map of Barovia, as drawn by Urvin Martikov"  %}}
+{{% mdimage "/cos/map-barovia.png" "Map of Barovia, as drawn by Urwin Martikov"  %}}
 
 ## Village
 
