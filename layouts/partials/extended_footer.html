@@ -1,0 +1,7 @@
+<div class="gitinfo">
+    {{ with .GitInfo }}
+    built using commit <a href="https://github.com/tillmzw/cos/commit/{{ .Hash }}">{{ .AbbreviatedHash }}</a>
+    from {{ .CommitDate }}
+    by {{ .AuthorName }}
+    {{ end }}
+</div>

@@ -5,6 +5,7 @@ theme = 'terminal'
 defaultContentLanguage = 'en'
 copyright = "© tillmzw"
 enableEmoji = true
+enableGitInfo = true
 
 [params]
   fullWidthTheme = false
