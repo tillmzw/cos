@@ -1,7 +1,7 @@
 ---
 title: Shadow over the Festival
 date: 2025-04-03
-draft: true
+draft: false
 toc: true
 description: "The festival commences, but not without a bitter taste."
 ---
