@@ -43,6 +43,6 @@ The baron pulls the now chained laughing man behind his horse through the street
 
 ## Storm brewing over the vineyard
 
-At the inn, a restless {{% mdref "martikov-family#Urwin" Urwin %}} calls the party over, immediately informing them that {{% mdref "martikov-family#Adrian" Adrian %}} returned from the vineyard to warn of the forming storm clouds over the druids' hills. {{% mdref "martikov-family#Claudiu" Claudiu%}} has run off to these hills south of the vineyard to avenge his father. His worried mother {{% mdref "martikov-family#Stephania" Stephania %}} went after him, and David was too proud to ask the party for help again. The party immediately takes off on horses in order to arrive before nightfall at the hills. 
+At the inn, a restless {{% mdref "martikov-family#Urwin" Urwin %}} calls the party over, immediately informing them that {{% mdref "martikov-family#Adrian" Adrian %}} returned from the vineyard to warn of the forming storm clouds over the druids' hills. {{% mdref "martikov-family#Claudiu" Claudiu %}} has run off to these hills south of the vineyard to avenge his father. His worried mother {{% mdref "martikov-family#Stephania" Stephania %}} went after him, and {{% mdref "martikov-family#Davian" Davian %}} was too proud to ask the party for help again. The party immediately takes off on horses in order to arrive before nightfall at the hills. 
 
 As they arrive, storm clouds gather over the druids' hill...
