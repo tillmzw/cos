@@ -32,6 +32,9 @@ Arriving in the town square, they see the pedestal with a wicker bowl is finishe
 
 As {{% mdref vargas-vallakovich "Baron Vallakovich" %}} puts his torch to the wicker, an unnatural downpour starts - after frantically trying to light the wicker, the rain finally puts out his torch. At this moment, a single person in the town square bursts out into sick laughter, echoing all over the now dead silent crowd. The baron turns and orders his guards to arrest that laughing man.
 
+
+{{% mdimage "/cos/blazing_sun.jpg" "Vallaki's town square during the Festival of the Blazing Sun"  %}}
+
 {{% mdref reese %}} - not having time for subtleness - directs a fiery spell at the wicker bowl, lighting it up. At that exact moment, the man stops laughing. The guards' attention now divided between {{% mdref reese %}} and the previously laughing man, {{% mdref reese %}} and {{% mdref thaddeus %}} scramble to escape by chanting "All will be well!" Luckily, the crowd picks up the cue and returns to their all-encompassing chant, making it impossible for the guard to trail them.
 
 > *All will be well!*
