@@ -39,7 +39,7 @@ As {{% mdref vargas-vallakovich "Baron Vallakovich" %}} puts his torch to the wi
 
 > *All will be well!*
 
-The baron pulls the now chained laughing man behind his horse through the streets, up toward his mansion on the other side of the city. With the crowd immediately dispersing, the party returns to the inn.
+The baron pulls the previously laughing, now chained laughing man behind his horse through the streets, up toward his mansion on the other side of the city. With the crowd immediately dispersing, the party returns to the inn.
 
 ## Storm brewing over the vineyard
 
