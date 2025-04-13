@@ -14,7 +14,11 @@ Oldest son of Davian.
 
 ## Stephania
 
-Daughter of Davian.
+Daughter of Davian, wife of the late Dag Tomescu.
+
+### Claudiu
+
+Oldest son of Stephania and Dag.
 
 ## Urwin
 
