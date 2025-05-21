@@ -3,7 +3,7 @@ title: Aftermath of Druid Hill
 date: 2025-05-15
 draft: false
 toc: true
-description: "Aftermath of Druid Hill."
+description: "Death befalls the party as they struggle to save what they can ..."
 ---
 
 ## Death
