@@ -1,11 +1,19 @@
-Death
+---
+title: Aftermath of Druid Hill
+date: 2025-05-15
+draft: false
+toc: true
+description: "Aftermath of Druid Hill."
+---
+
+## Death
 The adventurers face the grim aftermath following the battle ontop Yester Hill. The lightning has stopped, and Benjamin lies face down in the mud, dead. Although the party has defeated the attackers, they are drenched in mud and blood — the blood of their enemies, but also their own.
 
-The Aftermath of Thunderhill
+## The Aftermath of Thunderhill
 The "Ent" is making its way towards the winery. Stephania went ahead to warn the winery, desperate to save her family. Reese and Ilizeros kill off the remaining barbarians who are still fighting amongst themselves. Reese then charges towards the grove from where the druids came, seeking Claudio, with Ilizeros stealthily in tow. They find the naked body of Claudio at the foot of the tree, pierced by spikes and roots. Reese hurls firebolts at the tree in a desperate attempt to destroy it. As the bolts hit the tree twiglings begin to emerge from the underbrush and wander around the grove. The party decides to disengage and go back to the stone circle on the mountaintop. There, they see from afar the mysterious rider on the flaming horse they already encountered during their ascent. They decide to give this figure a wide birth and head down the hill after the 'Ent'.
-Reese and Ilizeros follow the "Ent" to the winery; it has carved a path through the forest. They find the winery destroyed, and Stephania's family is already heading to Valaki on their wagon, having salvaged some wine. The "Ent's" echoing sounds in the distance suggest it is now pursuing the wagon.
+They see that the "Ent" has carved a path through the forest towards the winery. Reese and Ilizeros follow, to find the winery almost fully destroyed by the "Ent", and Stephania's family is already heading to Valaki on their wagon, having salvaged some wine. With a last glance back at the winery the party sees the building in ruins and the "Ent's" echoing sounds in the distance suggest it has started pursuing the wagon.
 
-The Hooded Figure
+## The Wanderer
 Meanwhile, a hooded figure travels through the forest and approaches Valaki. He observes refugees outside the city gate. Upon entering the camp, he learns that Barrovia has been overrun by dark creatures. The hooded figure holds a ceremony and tries to lift the sorrow of the people. Afterwards, he tries to talk to the city guards who refuse to let him or the refugees in. The hooded figure decides to sneak into the city. After some attempts, he makes it in and begins searching for a tavern.
 
 The Party on the Run
