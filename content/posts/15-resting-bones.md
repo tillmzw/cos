@@ -1,7 +1,7 @@
 ---
 title: Resting Bones
 date: 2025-06-05
-draft: true
+draft: false
 toc: true
 description: "With everyone distracted and then recovering, another disaster looms snuck up on Vallaki."
 ---
