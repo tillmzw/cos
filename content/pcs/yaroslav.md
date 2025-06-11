@@ -4,7 +4,7 @@ toc: false
 showFullContent: true
 ---
 
-Yaroslav Korolev was an aspiring priest in {{% mdref Barovia %}} before fate finally led him to {{% mdref Vallaki %}} during the {{% mdref "14-aftermath-of-druid-hill" %}}.
+Yaroslav Korolev was an aspiring priest in {{% mdref barovia %}} before fate finally led him to {{% mdref vallaki %}} during the {{% mdref "14-aftermath-of-druid-hill" %}}.
 
 ---
 
