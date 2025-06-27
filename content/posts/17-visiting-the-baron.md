@@ -1,5 +1,5 @@
 ---
-title: Resting Bones
+title: Visiting the Baron
 date: 2025-06-26
 draft: false
 toc: true
