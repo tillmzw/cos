@@ -6,8 +6,6 @@ toc: true
 description: "Searching for boy suspected in the stolen relics surfaces another mystery."
 ---
 
-## The Orphanage
-
 As the party enquires at the Orphanage for Milivos, Claudia Blasko opens the door and informs them that he has suddenly fallen very sick, but lets the party in to attempt to help him.
 As Thaddeus investigates the boy, he realizes that the medicine known to him (i.e., glue, nails and boards) will be of no help to Milivos. He then sends Claudia Blasko to get Father Petrovich, hoping he may be able to help. When after some time Claudia still has not returned, the party gets nervous and sends Ireena to get Father Petrovich. Ireena agrees, but lets them know that she inteds to visit the Baron next to plead for the refugees from the village of Barovia.
 
