@@ -28,7 +28,7 @@ After some further trouble they manage to kill the blood druid.
 
 The groups seems to have been just a little bit too late. The subteranian veins that pulsate from the tree to the statue stop pulsating.
 
-The chantinh stops.
+The chanting stops.
 
 The statue crumbles.
 
