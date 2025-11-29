@@ -3,7 +3,7 @@ title: Fleeing Vallaki for Kresk
 date: 2025-07-17
 draft: false
 toc: true
-description: "The party flees Vallaki for Kresk."
+description: "The party flees Vallaki for Krezk."
 ---
 
 ## Meeting up at the church
