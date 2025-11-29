@@ -30,7 +30,7 @@ The two leave Abbs driven by some instict that their friends might be in trouble
 
 ## Strahd himself appears
 
-As Anastrasya appears to win the fight,  {{% mdref Esmeralda %}} flees and tells them she will get some holy water. At the same time more and more bats appear in the high cealing through the windows. As they have grown to a large swarm, they descend and surround Ireena. The man himself - {{% strahd-of-zarovich %}}  - appears out of them.
+As Anastrasya appears to win the fight,  {{% mdref Esmeralda %}} flees and tells them she will get some holy water. At the same time more and more bats appear in the high cealing through the windows. As they have grown to a large swarm, they descend and surround Ireena. The man himself - {{% mdref strahd-of-zarovich %}}  - appears out of them.
 
 He tells Anastrasya: "This is not your place!". Anastrasya tries to strike Ireena. Strahd casually rips her arm out. She flees.
 
