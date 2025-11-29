@@ -45,7 +45,7 @@ Strahd addresses {{% mdref ireena-kolyana %}} as "Tatyana". Apparently he confus
 - Strahd tells Reese he might need Reeses help with something.
 - His sword wants {{% mdref ilizeiros %}} to do something. He resists. For now.
 
-Strahd invites the entire party to his castle, Castle Ravenloft and then disappears.
+Strahd invites the entire party to his castle, {{% mdref castle-ravenloft %} and then disappears.
 
 ## What now?
 
