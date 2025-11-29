@@ -7,3 +7,5 @@ description: Fortified settlement in western Barovia.
 ---
 
 The settlement has tall stone walls but is only sparsely populated. Every house has multiple gravestones. There is an abbey and a pond.
+
+---
