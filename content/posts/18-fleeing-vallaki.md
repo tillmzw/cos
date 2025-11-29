@@ -1,5 +1,5 @@
 ---
-title: Fleeing Vallaki for Kresk
+title: Fleeing Vallaki for Krezk
 date: 2025-07-17
 draft: false
 toc: true
@@ -16,7 +16,7 @@ Meanwhile {{% mdref reese %}} is staying at the Blue Water Inn. He overhears tha
 
 ## Leaving Vallaki
 
-Reese goes to the church and warns the party. They decide to leave the city. They climb over the walls and follow the woods edge and leave towards {{% mdref Kresk %}}. Due to the fog the guards don't see them. On the road they are ambushed by a pack of wolves lead by an large wolf. The party kills the wolves but not before the Monk {{% mdref yaroslav %}} is knocked unconscious.
+Reese goes to the church and warns the party. They decide to leave the city. They climb over the walls and follow the woods edge and leave towards {{% mdref Krezk %}}. Due to the fog the guards don't see them. On the road they are ambushed by a pack of wolves lead by an large wolf. The party kills the wolves but not before the Monk {{% mdref yaroslav %}} is knocked unconscious.
 
 ## Arriving in Kresk
 
