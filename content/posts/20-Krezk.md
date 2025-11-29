@@ -16,6 +16,6 @@ The abbott "Abbs" is waiting for them. He turns out to be very strange and is ta
 
 By looking closer they notice that she is constructed from various body parts. The abbott seems to be engaging i a weird form of necromancy. {{% mdref Reese %}} tries to communicate telepathically with her but to no avail. "Abbs" ask for Ireenas face. The party declines. 
 
-The party leaves the main hall and sneaks through the abbey to the library to join {{% mdref Esmeralda %}} again. There is screaming in the courtyard. She is unfazed by the news about Abbs and just confirms that the abbott is very strange. {{% mdref Thaddeus %}} climbs to the tower with the abbott and learns about constructing bodies. 
+The party leaves the main hall and sneaks through the abbey to the library to join {{% mdref Ezmeralda %}} again. There is screaming in the courtyard. She is unfazed by the news about Abbs and just confirms that the abbott is very strange. {{% mdref Thaddeus %}} climbs to the tower with the abbott and learns about constructing bodies. 
 
 After that the party leaves the abbey and and searches for a places out in the open to sleep. They are woken in the middle of the night by knocking on the town gates.
