@@ -30,7 +30,7 @@ As they enter, they notice an older woman waiting on a couch who introduces hers
 
 As {{% mdref reese %}}  is led to her room, he finds a completely dark room and inside a young woman behaving and moving like a cat. {{% mdref reese %}}  manages to find out that she has been like this ever since she returned from her engagement with **Baron Vallakovich's son**. Stella also has no concept or recollection of her family. {{% mdref reese %}}  detects traces of a transformative curse on her and decides to further investigate. He convinces Stella that no harm will come to her from the Baron's son, and she is noticeably relieved.
 
-{{% mdref fiona-wachter Fiona %}} is not surprised and does not appear disappointed that {{% mdref reese %}}  failed to heal Stella from her condition - apparently she has made her peace with her daughter's condition, but also suggests that the abbot in {{% mdref kresk %}} may help with curses.
+{{% mdref fiona-wachter Fiona %}} is not surprised and does not appear disappointed that {{% mdref reese %}}  failed to heal Stella from her condition - apparently she has made her peace with her daughter's condition, but also suggests that the abbot in {{% mdref krezk %}} may help with curses.
 
 Finally, after a lavish meal, {{% mdref fiona-wachter Fiona %}} suggests the party inspect the town square and attend the festival to find dissatisfaction among the populace - and to come back to her should they consider ending {{% mdref vargas-vallakovich Vallakovich%}}'s rule by removing {{% mdref izek %}}.
 
