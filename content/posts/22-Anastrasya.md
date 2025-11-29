@@ -6,11 +6,11 @@ toc: false
 description: "The party meets and fights one ot the brides of Strahd and meets the man himself."
 ---
 
-# The situation
+## The situation
 
 The party is split. {{% mdref Reese %}} and {{% mdref ilizeiros %}} confront Anastrasya at the library. {{% mdref Thaddeus %}} and {{% mdref yaroslav %}} talk to the abbot at the abbey.
 
-# The Fight against Anastrasya
+## The Fight against Anastrasya
 
 Anastrasya, {{% mdref ireena-kolyana %}} and Otto the guard are waiting for the adventurers in the library. Ezmeralda arrives with them. Anastrasya somehow seems to control Otto to do her bidding although its unclear to them how. Even Ireena slapping him doesn't get him out of her influence. 
 
@@ -18,7 +18,7 @@ At the high ceiling of the library, bats assemble.
 
 After some banter, a fight ensues. Reese, Ezmeralda and Ilizeiros get some hits in. But overall Anastrasya is too strong for them.
 
-# The conversation with Abbs
+## The conversation with Abbs
 
 Meanwhile: In the conversation between {{% mdref Thaddeus %}}, {{% mdref yaroslav %}} and "Abbs" there is a lot of back and forth. They learn things about vampires in general and Anastrasya.
 
@@ -28,7 +28,7 @@ Meanwhile: In the conversation between {{% mdref Thaddeus %}}, {{% mdref yarosla
 
 The two leave Abbs driven by some instict that their friends might be in trouble and run towards the library. On the way they pass a disturbing 2-headed musician. On of his heads is the head of a baby.
 
-# Strahd himself appears
+## Strahd himself appears
 
 As Anastrasya appears to win the fight,  {{% mdref Esmeralda %}} flees and tells them she will get some holy water. At the same time more and more bats appear in the high cealing through the windows. As they have grown to a large swarm, they descend and surround Ireena. The man himself - {{% strahd-of-zarovich %}}  - appears out of them.
 
@@ -47,7 +47,7 @@ Strahd addresses {{% mdref ireena-kolyana %}} as "Tatyana". Apparently he confus
 
 Strahd invites the entire party to his castle, Castle Ravenloft and then disappears.
 
-# What now?
+## What now?
 
 The party sleeps, collects holy water and discusses what to do next. They contact Ezmeralda telepathically.
 
