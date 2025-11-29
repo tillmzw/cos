@@ -1,5 +1,5 @@
 ---
-title: Kresk
+title: Krezk
 date: 2024-03-20
 draft: false
 toc: false
