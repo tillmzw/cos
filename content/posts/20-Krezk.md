@@ -1,5 +1,5 @@
 ---
-title: Krezk
+title: Entering Krezk
 date: 2025-10-09
 draft: false
 toc: false
