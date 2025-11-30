@@ -17,6 +17,6 @@ In an attempt to defend the gate, the party blasts blindly towards the area in f
 
 Immediately, the party rushes back towards the abby to seek advise from the abbot and make sure Ireena is safe.
 
-## The Abby
+## The Abbey
 
 Passing the sleeping animalistic guards, the party rushes back and splits up: Thaddeus and Yaroslav confront the abbot to find out more about Anastrasya and his idea of palm off a semi-sentient doll on Strahd. At the same time, Ilizeiros and Reese rush back to the library to find Ezmeralda and Ireena. As the two arrive, they find the face matching the voice heard before: Anastrasya has found Ireena and is making it known that she intends to depart with her, willing or not.
