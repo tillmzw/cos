@@ -1,5 +1,5 @@
 ---
-title: Anastrasya
+title: Fighting the bride and meeting the devil
 date: 2025-11-13
 draft: false
 toc: false
