@@ -8,7 +8,7 @@ description: "The party meets and fights one ot the brides of Strahd and meets t
 
 ## The situation
 
-The party is split. {{% mdref Reese %}} and {{% mdref ilizeiros %}} confront Anastrasya at the library. {{% mdref Thaddeus %}} and {{% mdref yaroslav %}} talk to the abbot at the abbey.
+The party is split. {{% mdref Reese %}} and {{% mdref ilizeiros %}} confront {{% mdref anastrasya Anastrasya %}} at the library. {{% mdref Thaddeus %}} and {{% mdref yaroslav %}} talk to the abbot at the abbey.
 
 ## The Fight against Anastrasya
 
