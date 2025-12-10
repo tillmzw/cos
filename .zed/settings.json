@@ -1,3 +1,16 @@
 {
-  "disable_ai": true
+  "disable_ai": true,
+  "format_on_save": "on",
+  "soft_wrap": "bounded",
+  "show_wrap_guides": true,
+  "tab_size": 4,
+  "hard_tabs": true,
+  "languages": {
+    "Markdown": {
+      "remove_trailing_whitespace_on_save": true,
+      "preferred_line_length": 100,
+      "wrap_guides": [80, 120],
+      "allow_rewrap": "in_selections"
+    }
+  }
 }
