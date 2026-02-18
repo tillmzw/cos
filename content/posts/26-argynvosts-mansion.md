@@ -1,6 +1,6 @@
 ---
 title: Argynvosts Mansion
-date: 2025-12-10
+date: 2026-01-21
 draft: false
 toc: false
 description: "The old reinforced Mansion lies silent"
