@@ -1,7 +1,7 @@
 ---
 title: Argynvosts Quest
-date: 2026-02-21
-draft: true
+date: 2026-02-19
+draft: false
 toc: false
 description: "Gaining Argynvosts favor turns out to be exactly as complicated as expected"
 ---
@@ -11,4 +11,4 @@ Before leaving, the party decides to thoroughly investigate the rest of the decr
 
 Finally, when exiting the castle, the party finds Rahadin, Strahd's courier, awaiting them in front of the entry. He extends an invitation to Castle Ravenloft and promises safe passage to Ravenloft from a crossroads between Vallaki and Ravenloft. The party, while at first unwilling to talk to him, tries to press information from Rahadin, but does not produce any new, valuable information from the very courteous elf.
 
-Upon returning to Vallaki the party makes contact with Baron Vallakovic by sneaking into his mansion under lock down. Together, they form the plan to wrestle control of the town from Lady Wachter by getting a festival together and letting the Baron have a speech and explaining the coup to the populace. Would there still be festivals allowed in Vallaki, the next one would be in three days.
+Upon returning to Vallaki the party makes contact with Baron Vallakovic by sneaking into his mansion under lock down. Together, they form the plan to wrestle control of the town from Lady Wachter by getting a festival together and letting the Baron have a speech and explaining the coup to the populace. Would there still be festivals allowed in Vallaki, the next one would be in three days. Finally, when asked about avenues to find more information about Lady Wachter, the Baron mentions her two sons: both Nikolai and Karl Wachter are said to be dimwitted drunkards, often found in the Blue Water Inn.
