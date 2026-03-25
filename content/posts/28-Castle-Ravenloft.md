@@ -6,9 +6,13 @@ toc: false
 description: "The party enters the lions den"
 ---
 
+## In the Blue Water Inn
+
 The party tries to get information out of the two sons of Fiona Wachter: Nikolai Wachter and Karl Wachter. Their guard is especially vigilant and even refuses free alcohol. They are mostly unsuccessful. The only thing they find out is that their mum met with strange people in the basement of their house before the coup.
 
 The party goes to bed. Thaddeus repairs the armour Ilizeyros bought. Both eat their last piece of delicious pie. In the backs of their minds they start thinking about spending a day without pie. A dreadful thought.
+
+## Castle Ravenloft
 
 The party goes to the crossroads a few hours away from Vallaki and the promised carriage is waiting there. Its drawn by skeletal non-burning horses and drives itself to castle Ravenloft once the party enters.
 
