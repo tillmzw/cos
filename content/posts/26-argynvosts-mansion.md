@@ -35,4 +35,4 @@ The dragon shape leads them to a big room with a wooden throne. A gaunt armored 
 The skeletal figure reveals himself as “Vladimir Horngard,” commander of "The Order of the Silver Dragon". 
 The party learns that he harbors a deep hatred for “Lord Strahd” and wants him to suffer endlessly. 
 Furthermore, he informs the party that most of the remains of Argynvost are in the crypt, which are according to Vladimir "sealed". 
-However the Skull of Arynvost had been taken by “Lord Strahd“ as a trophy. 
+However the Skull of Argynvost had been taken by {{% mdref strahd-of-zarovich "Lord Strahd" %}} as a trophy. 
