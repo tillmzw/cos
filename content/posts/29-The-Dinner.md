@@ -24,6 +24,8 @@ There are 3 more vampires sitting next to Strahd at the table:
 - A handsome man - Escher - He came from outside Barovia as well and was subsequently bitten by Strahd and turned into a vampire. Strahd mentions to the party that Escher came to the realm of Barovia with a party of friends who all ended up dead. Escher seems reluctant to talk about them.
 - A young street urchin from Barovia - bitten by Strahd and turned into a vampire.
 
+The vampires all eat but seemingly more for the taste than actual sustenance.
+
 They are served by
 
 - The daughter of Mad Mary.
