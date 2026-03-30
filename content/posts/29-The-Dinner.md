@@ -18,7 +18,9 @@ Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get the
 
 Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
-For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strahd - its the first time he sees these kinds of food.
+For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strahd - its the first time he sees or tastes these kinds of food.
+
+Strahd considers Yaroslav one of his sunjects, Ilizeiros, Thaddeus and Reese are addresses as outsiders however.
 
 There are 3 more vampires sitting next to Strahd at the table:
 
