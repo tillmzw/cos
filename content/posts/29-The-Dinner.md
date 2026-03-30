@@ -12,15 +12,17 @@ description: "The party has dinner"
 
 The party has a tense dinner with Lord {{% mdref strahd-of-zarovich %}}. 
 
-The party gets food served that they like. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him.
+The party gets food served that they like. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
+
+Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
 For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strahd - its the first time he sees these kinds of food.
 
 There are 3 more vampires sitting next to Strahd at the table:
 
-- {{% mdref anastrasya Anastrasya %}} - Missing one arm.
+- {{% mdref anastrasya Anastrasya %}} - Missing one arm. She is silent during the whole dinner.
 - A handsome man - Escher - He came from outside Barovia as well and was subsequently bitten by Strahd and turned into a vampire.
-- A young street urchin.
+- A young street urchin from Barovia - bitten by Strahd and turned into a vampire.
 
 They are served by
 
