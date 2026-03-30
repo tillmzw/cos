@@ -29,13 +29,13 @@ They are served by
 
 ## An old friend
 
-In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion Benjamin.
+In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin %}} Benjamin.
 
 He accuses the party of abandoning Benjamin and also of the murder of innocent werewolves.
 
 ## The offer
 
-He offers only one of the adventurers a chance to leave Barovia if they deliver him informatiion on van Richten. But not all of them. It seems a ploy to turn the adventurers against each other. 
+He offers only one of the adventurers a chance to leave Barovia if they deliver him information on van Richten. But not all of them. It seems a ploy to turn the adventurers against each other. 
 
 # The Skull
 
