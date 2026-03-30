@@ -39,7 +39,7 @@ He accuses the party of abandoning Benjamin and also of the murder of innocent w
 
 ### The offer
 
-He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  aploy to turn the adventurers against each other. 
+He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
 
 ## The Skull
 
