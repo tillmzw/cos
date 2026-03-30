@@ -12,7 +12,7 @@ description: "The party has dinner"
 
 The party has a tense dinner with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
-The party gets served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
+The party gets served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic. Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
 Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
@@ -21,17 +21,17 @@ For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strah
 There are 3 more vampires sitting next to Strahd at the table:
 
 - {{% mdref anastrasya Anastrasya %}} - Missing one arm. She is silent during the whole dinner.
-- A handsome man - Escher - He came from outside Barovia as well and was subsequently bitten by Strahd and turned into a vampire.
+- A handsome man - Escher - He came from outside Barovia as well and was subsequently bitten by Strahd and turned into a vampire. Strahd mentions to the party that Escher came to the realm of Barovia with a party of friends who all ended up dead. Escher seems reluctant to talk about them.
 - A young street urchin from Barovia - bitten by Strahd and turned into a vampire.
 
 They are served by
 
-- The daughter of Mad Mary
-- Cyrrus
+- The daughter of Mad Mary.
+- The mongrelfolk Cyrrus.
 
 ## An old friend
 
-In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked and appalled.
+In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked, disturbed and appalled. Thaddeus is downright angry and makes no attempt to hide it.
 
 He accuses the party of abandoning Benjamin and also of the murder of innocent werewolves.
 
