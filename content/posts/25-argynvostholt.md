@@ -3,14 +3,14 @@ title: Argynvostholt
 date: 2026-01-08
 draft: false
 toc: false
-description: "An old castle with draconic bearing holds dangerous secrets"
+description: "An old mansion with draconic bearing holds dangerous secrets"
 ---
 
-## Road to the Castle
+## Road to the Mansion
 
-Continuing towards the fabled Argynvostholt, the supposed resting place of a powerful dragon, the party has to cross the westward bridge again. Using the tried-and-true strategy of hiding from the otherworldly horse rider gallopping over the bridge, the party crosses unharmed.
+Continuing towards the fabled {{% mdref argynvostholt Argynvostholt %}}, the supposed resting place of a powerful dragon, the party has to cross the westward bridge again. Using the tried-and-true strategy of hiding from the otherworldly horse rider gallopping over the bridge, the party crosses unharmed.
 
-Finally arriving at the described location, the party finds a large abandoned castle that appears to have served a military purpose in days long gone. A dragon statue (which Thaddeus finds is likely a silver dragon) looms in front of the castle entry, over which the name **ARGYNVOSTHOLT** is engraved. Passing the dragon springs a trap - luckily that trap appears to have lost most of its power and exhales not icy but just cold winds.
+Finally arriving at the described location, the party finds a large abandoned mansion that appears to have served a military purpose in days long gone. A dragon statue (which Thaddeus finds is likely a silver dragon) looms in front of the castle entry, over which the name **ARGYNVOSTHOLT** is engraved. Passing the dragon springs a trap - luckily that trap appears to have lost most of its power and exhales not icy but just cold winds.
 
 ## Investigating the Castle
 
