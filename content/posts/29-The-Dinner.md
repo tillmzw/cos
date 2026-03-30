@@ -10,7 +10,7 @@ description: "An awkward dinner"
 
 ### The guests and the food
 
-The party has a tense dinner with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
+The party has a tense dinner in {{% castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
 The party gets served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic. Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while traveling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
