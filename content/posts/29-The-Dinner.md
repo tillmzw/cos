@@ -49,7 +49,7 @@ Strahd repeatedly tells them that "he is the land and he is the law" and at one 
 
 ### The offer
 
-He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
+He offers an escape from {{% mdref barovia %}} if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
 
 ## The Skull
 
