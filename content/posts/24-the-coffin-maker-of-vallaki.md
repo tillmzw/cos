@@ -8,7 +8,7 @@ description: "A massacre and powergrab in Vallaki"
 
 ## New Leadership
 
-The party arrives in Vallaki where the banners of Lady Wachter can be seen through the smoke, comming from the city. 
+The party arrives in Vallaki where the banners of {{% mdref fiona-wachter "Lady Wachter" %}} can be seen through the smoke, comming from the city. 
 At the city gates, Reese interviews a guard and figures out, that Vallaki has been attacked by an army of undead. The attack came from within the city - namely the coffin maker shop.
 Before the undead were able to destroy the city, Lady Wachter was able to strike an unknown deal with the intruders and they left. In the aftermath, the city guards arrested the coffin maker.
 The Baron and Izek are apparently holed up inside the Barons Mansion. 
