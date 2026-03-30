@@ -6,6 +6,8 @@ toc: false
 description: "The old reinforced Mansion lies silent"
 ---
 
+# The dusk elf
+
 The party decides to follow the command of the three knights and retreat to the foyer, where they take a short rest after having made sure the knights did not follow them. 
 Afterwards, the party continues to search the castle for hints and finds a dusk elf hidden in a storage room. 
 He introduces himself as “Savid” — a dusk elf who lives with the Vistani outside of Vallaki and is looking for a missing child called “Arabelle.” 
@@ -23,6 +25,9 @@ Then the figure dissapates.
 The party continues searching the lower level. There is an office, a sleeping quarter, and a kitchen, but no further discoveries are made.
 
 Afterwards, the party heads to the upper floor via the north balcony. 
+
+# The dragon
+
 This leads to a corridor, where the party opens the first door to the east. In the hearth of that room, a dragon shape appears and rushes toward the staircase leading to the second floor. 
 The party swiftly follows the creature upwards.
 
