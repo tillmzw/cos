@@ -33,7 +33,7 @@ They are served by
 
 ### An old friend
 
-In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked, disturbed and appalled. Thaddeus is downright angry and makes no attempt to hide it. {{% reese Reese %}} tries to read Benjamins mind but can't sense anything.
+In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked, disturbed and appalled. Thaddeus is downright angry and makes no attempt to hide it. {{% mdref reese Reese %}} tries to read Benjamins mind but can't sense anything.
 
 He accuses the party of abandoning Benjamin and also of the murder of innocent werewolves.
 
