@@ -16,7 +16,7 @@ There is a large thunderstorm going on. Lightning is flashing every few seconds.
 
 The hill is covered by cairns. On the top there is a stone wall ring and a very large wooden statue. A few hundred feet further back there is a giant tree and the party hears chanting originating from there.
 
-An blooddruid is standing in the middle of the stone wall ring holding the Stefania captive and is apparently trying to get her power. He is covered in dried blood, wears no clothes and is mad. The group attacks him.
+An blooddruid is standing in the middle of the stone wall ring holding the {{% mdref "martikov-family#Stephania" Stephania %}} captive and is apparently trying to get her power. He is covered in dried blood, wears no clothes and is mad. The group attacks him.
 
 He proves to be a formidable enemy, summoning walls of vines protecting himself and a captured Stefania.
 
