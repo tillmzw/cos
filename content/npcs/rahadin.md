@@ -4,4 +4,4 @@ toc: false
 description: Henchman of Strahd.
 ---
 
-Elf and henchman of Strahd.
+Tall Elf, courier and henchman of Strahd.
