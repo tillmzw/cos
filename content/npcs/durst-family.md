@@ -6,9 +6,11 @@ description: Owners of the Durst Mansion.
 
 ## Elizabeth
 
+Mother of the Durst children.
 
 ## Gustav
 
+Father of the Durst children.
 
 ## Walther
 
