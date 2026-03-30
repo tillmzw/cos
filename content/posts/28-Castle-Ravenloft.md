@@ -3,7 +3,7 @@ title: Castle Ravenloft
 date: 2026-03-12
 draft: false
 toc: false
-description: "The party enters the lions den"
+description: "Entering the lions den"
 ---
 
 ## In the Blue Water Inn
