@@ -12,9 +12,9 @@ description: "The party has dinner"
 
 The party has a tense dinner with Lord {{% mdref strahd-of-zarovich %}}. 
 
-The party gets food served that they like. Its unclear how Strahd knew their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him.
+The party gets food served that they like. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him.
 
-For Yaroslav - who gets ignored most of the time by Strahd - its the first time he sees these kinds of food.
+For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strahd - its the first time he sees these kinds of food.
 
 There are 3 more vampires sitting next to Strahd at the table:
 
@@ -35,10 +35,10 @@ He accuses the party of abandoning Benjamin and also of the murder of innocent w
 
 ## The offer
 
-He offers only one of the adventurers a chance to leave Barovia if they deliver him information on van Richten. But not all of them. It seems a ploy to turn the adventurers against each other. 
+He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  aploy to turn the adventurers against each other. 
 
 # The Skull
 
-The party uses Benjamin to get to the skull of the dragon Argynvost and plans a heist to get it out of the castle.
+The party uses Benjamin to get to the skull of the dragon Argynvost. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
 
 They also make Benjamin drink holy water. It doesn't kill him however.
