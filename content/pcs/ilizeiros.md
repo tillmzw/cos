@@ -4,7 +4,7 @@ toc: false
 showFullContent: true
 ---
 
-Conspicuously absorbed with his sword.
+A bearded man wearing a cape and a cloak with a hood over his leather armour. Conspicuously absorbed with his sword.
 
 ---
 
