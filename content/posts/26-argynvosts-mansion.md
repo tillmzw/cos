@@ -13,7 +13,7 @@ Afterwards, the party continues to search the castle for hints and finds a dusk 
 He introduces himself as “Savid” — a dusk elf who lives with the Vistani outside of Vallaki and is looking for a missing child called “Arabelle.” 
 He was attacked by spiders and hid in the storage room.
 
-The party questions him about “Argynvost,” and he shares that Argynvost is a silver dragon who takes human form. 
+The party questions him about “Argynvost,” and he shares that {{% mdref argynvost "Argynvost" %}} is a silver dragon who takes human form. 
 He led the group of knights called “The Order of the Silver Dragon” a long time ago in a fight against {{% mdref strahd-of-zarovich "Lord Strahd" %}}. 
 However, they were unable to defeat him and the order was destroyed. 
 The party promises to look for “Arabelle” and sends Savid off. {{% mdref ilizeiros Ilizeiros %}} gives him a piece of his pie as a goodbye gift.
