@@ -10,9 +10,9 @@ description: "The party has dinner"
 
 ## The guests and the food
 
-The party has a tense dinner with Lord {{% mdref strahd-of-zarovich "Strahd von Zarovich" %}}. 
+The party has a tense dinner with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
-The party gets food served that they like. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
+The party gets served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
 Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
