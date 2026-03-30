@@ -10,7 +10,7 @@ description: "The party has dinner"
 
 ## The guests and the food
 
-The party has a tense dinner with Lord {{% mdref strahd-of-zarovich %}}. 
+The party has a tense dinner with Lord {{% mdref strahd-of-zarovich "Strahd von Zarovich" %}}. 
 
 The party gets food served that they like. Especially {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear but creepy how Strahd knows about their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
