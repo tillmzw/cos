@@ -8,7 +8,7 @@ description: "An awkward dinner"
 
 ## The Dinner
 
-### The guests and the food
+### The food and the guests
 
 The party has a tense dinner in {{% mdref castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
