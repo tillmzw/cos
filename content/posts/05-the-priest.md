@@ -10,7 +10,7 @@ description: "The party attends a funeral with mysterious guests and investigate
 ## The Burgomaster's Funeral
 
 A chilling scene unfolded at the burgomaster's funeral. A carriage, drawn by skeletal horses, arrived, and a tall, slender figure emerged. {{% mdref ireena-kolyana %}}, stunned by the apparition, watched as  [Father Donavich]({{< ref "father-donavich" >}}) clutched his holy symbol. {{% mdref ismark-kolyanovich %}}, the burgomaster's son, demanded that the stranger leave, declaring the funeral a private affair.
-The mysterious figure introduced himself as Rahadin, chamberlain to the infamous [Lord Strahd]({{< ref "strahd-of-zarovich" >}}). He lays down a flower on the old Burgomasters grace and mentiones to {{% mdref ismark-kolyanovich %}}, that he hopes, that as the new Burgomaster he will do better work than his father. 
+The mysterious figure introduced himself as {{% mdref rahadin %}}, chamberlain to the infamous [Lord Strahd]({{< ref "strahd-of-zarovich" >}}). He lays down a flower on the old Burgomasters grace and mentiones to {{% mdref ismark-kolyanovich %}}, that he hopes, that as the new Burgomaster he will do better work than his father. 
 After being questioned, what was wrong with the old Burgomaster, Rahadin revealed a disturbing truth: villagers had been vanishing, their bodies found mutilated by claw and bite marks.
 
 ## Investigations In Barovia
