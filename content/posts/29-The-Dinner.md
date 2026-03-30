@@ -8,7 +8,7 @@ description: "The party has dinner"
 
 # The Dinner
 
-The party has a tense dinner with Lord Strahd {{% mdref strahd-of-zarovich %}}. 
+The party has a tense dinner with Lord {{% mdref strahd-of-zarovich %}}. 
 
 The party gets food served that they like. Its unclear how Strahd knew their favourite food. There is also fresh food that the party has never seen while travelling Barovia: Apples and more. Strahd says that he has people getting stuff to him.
 
