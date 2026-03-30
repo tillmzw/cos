@@ -22,7 +22,7 @@ For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strah
 
 ### The guests
 
-Strahd considers Yaroslav one of his subjects, Ilizeiros, Thaddeus and Reese are addressed as outsiders however.
+Strahd considers Yaroslav one of his subjects. Ilizeiros, Thaddeus and Reese are addressed as "outsiders" however.
 
 There are 3 more vampires sitting next to Strahd at the table:
 
