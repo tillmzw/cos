@@ -50,4 +50,4 @@ The party manages to kill many of the attacker, summoning dark magic swallowing 
 
 In the end however it is too much.
 
-Benjamin dies valiantly fighting in the frontline.
+{{% mdref benjamin Benjamin %}} dies valiantly fighting in the frontline.
