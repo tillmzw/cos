@@ -6,9 +6,9 @@ toc: false
 description: "The party has dinner"
 ---
 
-# The Dinner
+## The Dinner
 
-## The guests and the food
+### The guests and the food
 
 The party has a tense dinner with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
@@ -29,17 +29,17 @@ They are served by
 - The daughter of Mad Mary.
 - The mongrelfolk Cyrrus.
 
-## An old friend
+### An old friend
 
 In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked, disturbed and appalled. Thaddeus is downright angry and makes no attempt to hide it.
 
 He accuses the party of abandoning Benjamin and also of the murder of innocent werewolves.
 
-## The offer
+### The offer
 
 He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  aploy to turn the adventurers against each other. 
 
-# The Skull
+## The Skull
 
 The party uses Benjamin to get to the skull of the dragon Argynvost. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
 
