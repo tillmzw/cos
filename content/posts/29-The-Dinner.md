@@ -12,7 +12,9 @@ description: "An awkward dinner"
 
 The party has a tense dinner in {{% mdref castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
-They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic (no maggots!). Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while traveling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
+They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic (no maggots!). Strahd sees their skepticism and assures them once more that they are safe as long as they are his guests this night. 
+
+Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while traveling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
 Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
@@ -29,7 +31,7 @@ The vampires all eat but seemingly more for the taste than actual sustenance.
 They are served by
 
 - The daughter of Mad Mary.
-- The mongrelfolk Cyrrus.
+- The mongrelfolk servant Cyrrus.
 
 ### An old friend
 
@@ -41,7 +43,9 @@ Strahd accuses the party of abandoning Benjamin which they vehemently deny and a
 
 He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
 
-## The Skull
+## The Skul
+
+After the dinner the party is once more free to explore the castle. Strahd explained to them that the locked doors are for their own safety.
 
 The party uses Benjamin to get to the skull of the dragon {{% mdref argynvost "Argynvost" %}}. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
 
