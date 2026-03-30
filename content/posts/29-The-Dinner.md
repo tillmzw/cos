@@ -43,6 +43,8 @@ In the middle of the dinner Strahd surprises the party with the somehow animated
 
 Strahd accuses the party of abandoning Benjamin which they vehemently deny and also of the murder of innocent werewolves. The party insists that is was completely legitimate self-defense.
 
+Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder (or real thunder - its hard to tell without windows).
+
 ### The offer
 
 He offers an escape from Barovia if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
