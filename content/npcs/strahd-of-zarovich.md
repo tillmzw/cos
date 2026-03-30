@@ -4,6 +4,6 @@ toc: false
 description: Mysterious ruler over the region. 
 ---
 
-Ruler of Barovia. Powerful Vampire.
+Ruler of Barovia. Conquered the land a long time ago. Powerful Vampire. Lives in {{% mdref castle-ravenloft "Castle Ravenloft" %}}.
 
 ---
