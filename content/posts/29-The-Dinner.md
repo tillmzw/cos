@@ -29,7 +29,7 @@ They are served by
 
 ## An old friend
 
-In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin %}} Benjamin.
+In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}.
 
 He accuses the party of abandoning Benjamin and also of the murder of innocent werewolves.
 
