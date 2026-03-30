@@ -19,7 +19,7 @@ The funeral concluded abruptly, and the group, including {{% mdref ireena-kolyan
 The group learned that [Lord Strahd]({{< ref "strahd-of-zarovich" >}}) was a vampire, a creature of darkness with a thirst for blood. {{% mdref ismark-kolyanovich %}} tasked them with escorting {{% mdref ireena-kolyana %}} to {{% mdref vallaki %}}, a village one day northwest of {{% mdref barovia %}}.
 Before their departure, the group decided to return the dog named Lancelot to its owner. They arrived at the "Whining House," a dilapidated building inhabited by a distraught old woman, in the village referred to as [Mad Mary]({{< ref "mad-mary" >}}). She claimed that her daughter, Gertruda, had vanished, and she had seen a dark figure dragging bodies through the night. After some persuasion, she handed over a strange doll belonging to her daughter with a cryptic inscription:
 
-*"Is no fun, is no Blinsky"*
+> *Is no fun, is no Blinsky*
 
 Determined to find Gertruda and uncover the mystery of the missing villagers, the group investigated Gregor Stanovich's abandoned house. They discovered a silver necklace with a religious symbol, suggesting a violent struggle.
 Seeking answers, the group visited a local tavern, where they encountered a trio of Vistani. The Vistani were unable to provide specific information but suggested that Madame Eva, a wise woman living outside of {{% mdref barovia %}}, might be able to help with the question, how the group got to {{% mdref barovia %}} in the first plave.
