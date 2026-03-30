@@ -43,6 +43,6 @@ He offers an escape from Barovia if they deliver information about van Richten. 
 
 ## The Skull
 
-The party uses Benjamin to get to the skull of the dragon Argynvost. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
+The party uses Benjamin to get to the skull of the dragon {{% mdref argynvost "Argynvost" %}}. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
 
 They also make Benjamin drink holy water to end his suffering. It doesn't kill him however.
