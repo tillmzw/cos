@@ -8,7 +8,7 @@ description: "The old reinforced Mansion lies silent"
 
 ## The dusk elf
 
-The party decides to follow the command of the three knights and retreat to the foyer, where they take a short rest after having made sure the knights did not follow them. 
+The party decides to follow the command of the three knights and retreat to the foyer of {{% mdref argynvostholt Argynvostholt %}}, where they take a short rest after having made sure the knights did not follow them. 
 Afterwards, the party continues to search the castle for hints and finds a dusk elf hidden in a storage room. 
 He introduces himself as “Savid” — a dusk elf who lives with the Vistani outside of Vallaki and is looking for a missing child called “Arabelle.” 
 He was attacked by spiders and hid in the storage room.
