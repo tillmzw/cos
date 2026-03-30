@@ -4,4 +4,4 @@ toc: false
 description: Mysterious older influential woman, living in Vallaki.
 ---
 
-The new ruler of Vallaki.
+The new ruler of {{% mdref vallaki Vallaki %}}.
