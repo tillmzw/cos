@@ -3,7 +3,7 @@ title: Barovia
 date: 2024-12-12
 draft: false
 toc: false
-description: Both the name of the region and a village, plagued by poverty, dispair and disappearances
+description: Both the name of the region and a village, plagued by poverty, despair and disappearances
 ---
 
 ## Region
