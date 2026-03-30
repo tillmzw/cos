@@ -4,4 +4,4 @@ toc: false
 description: Heir to the burgomaster of Barovia. 
 ---
 
-Brother of {{% mdref ireena-kolyana "Ireena Kolyana" %}}.
+Son and heir to the burgomaster of Barovia. His family took in {{% mdref ireena-kolyana "Ireena Kolyana" %}}.
