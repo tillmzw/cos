@@ -8,7 +8,7 @@ description: "An awkward dinner"
 
 ## The Dinner
 
-### The food and the guests
+### The food
 
 The party has a tense dinner in {{% mdref castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
@@ -19,6 +19,8 @@ Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get the
 Asked if these people are the Vistani he answers: Yes them and others. Who the others are is left unsaid.
 
 For {{% mdref yaroslav Yaroslav %}} - who gets ignored most of the time by Strahd - its the first time he sees or tastes these kinds of food.
+
+### The guests
 
 Strahd considers Yaroslav one of his sunjects, Ilizeiros, Thaddeus and Reese are addresses as outsiders however.
 
