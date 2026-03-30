@@ -3,7 +3,7 @@ title: The Dinner
 date: 2026-03-25
 draft: false
 toc: false
-description: "The party has dinner"
+description: "An awkward dinner"
 ---
 
 ## The Dinner
