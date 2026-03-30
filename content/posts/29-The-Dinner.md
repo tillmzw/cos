@@ -43,7 +43,7 @@ They are served by
 
 In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion {{% mdref benjamin Benjamin %}}. The adventurers are shocked, disturbed and appalled. Thaddeus is downright angry and makes no attempt to hide it. {{% mdref reese Reese %}} tries to read Benjamins mind but can't sense anything.
 
-Strahd accuses the party of abandoning Benjamin which they vehemently deny and also of the murder of innocent werewolves. The party insists that is was completely legitimate self-defense and that they had to keep {{% mdref ireena Ireena %}} safe after all.
+Strahd accuses the party of abandoning Benjamin which they vehemently deny and also of the murder of innocent werewolves. The party insists that is was completely legitimate self-defense and that they had to keep {{% mdref ireena-kolyana Ireena %}} safe after all.
 
 Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder (or real thunder - its hard to tell without windows).
 
