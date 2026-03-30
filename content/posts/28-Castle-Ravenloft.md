@@ -16,7 +16,7 @@ The party goes to bed. Thaddeus repairs the armour Ilizeyros bought. Both eat th
 
 The party goes to the crossroads a few hours away from Vallaki and the promised carriage is waiting there. Its drawn by skeletal non-burning horses and drives itself to castle Ravenloft once the party enters.
 
-The carriage crosses a 50ft draw bridge before entering the courtyard of the castle. There they are welcomed by Rahadim, whom they've met before and Cyrrus. Cyrrus is a mongrelfolk similar to the people in Krezk.
+The carriage crosses a 50ft draw bridge before entering the courtyard of the castle. There they are welcomed by {{% mdref rahadin %}}, whom they've met before and Cyrrus. Cyrrus is a mongrelfolk similar to the people in Krezk.
 
 The party is led to the guest rooms. There are 2 servants there. An man and a young woman making the beds. The young woman turns out to be [Mad Marys]({{< ref "mad-mary" >}}) daughter. She confirms the story that the party assumed. The daughter was held against her will by Mad Mary. She seems to be content in the castle.
 
