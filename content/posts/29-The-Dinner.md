@@ -14,7 +14,7 @@ The party gets food served that they like. Its unclear how Strahd knew their fav
 
 There are 3 more vampires sitting at the table.
 
-- 
+- {{% mdref anastrasya Anastrasya %}} - Missing one arm.
 
 In the middle of the dinner Strahd surprises the party with the somehow animated body of their former companion Benjamin.
 
