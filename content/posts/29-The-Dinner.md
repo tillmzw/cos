@@ -12,7 +12,7 @@ description: "An awkward dinner"
 
 The party has a tense dinner in {{% mdref castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
-They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic (no maggots!). Strahd sees their skepticism and assures them once more that they are safe as long as they are his guests this night. 
+They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic [^1]. Strahd sees their skepticism and assures them once more that they are safe as long as they are his guests this night. 
 
 Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while traveling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
@@ -60,3 +60,5 @@ After the dinner the party is once more free to explore the castle. Strahd expla
 The party uses Benjamin to get to the skull of the dragon {{% mdref argynvost "Argynvost" %}}. Its hidden in the cellar of the castle in a room full of bones. They start planning a heist to get it out of the castle involving Yaroslavs almost supernatural abilities and Thaddeus' potions.
 
 They also make Benjamin drink holy water to end his suffering. It doesn't succeed in killing him however.
+
+[^1]: No maggots!
