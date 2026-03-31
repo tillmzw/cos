@@ -12,7 +12,7 @@ description: "An awkward dinner"
 
 The party has a tense dinner in {{% mdref castle-ravenloft "Castle Ravenloft" %}} with {{% mdref strahd-of-zarovich "Lord Strahd von Zarovich" %}}. 
 
-They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic [^1]. Strahd sees their skepticism and assures them once more that they are safe as long as they are his guests this night. 
+They get served delicious food that they enjoy a lot. They are initially skeptical but the food turns out to be fantastic[^1]. Strahd sees their skepticism and assures them once more that they are safe as long as they are his guests this night. 
 
 Both {{% mdref ilizeiros Ilizeiros %}} & {{% mdref thaddeus Thaddeus %}} get their favourite foods from their childhood. Its unclear how Strahd knows about their favourite food. There is also fresh food that the party has never seen while traveling Barovia: Apples and more. Strahd says that he has people getting stuff to him from the outside of Barovia. 
 
@@ -47,7 +47,7 @@ Strahd accuses the party of abandoning Benjamin which they vehemently deny and a
 
 The vampire lord isn't fully convinced and tells them that at least one werewolf death wasn't justified. Kyril will be trying to get his revenge and/or justice. A life for a life.
 
-Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder [^2].
+Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder[^2].
 
 ### The offer
 
