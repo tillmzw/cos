@@ -47,7 +47,7 @@ Strahd accuses the party of abandoning Benjamin which they vehemently deny and a
 
 The vampire lord isn't fully convinced and tells them that at least one werewolf death wasn't justified. Kyril will be trying to get his revenge and/or justice. A life for a life.
 
-Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder (or real thunder - its hard to tell without windows).
+Strahd repeatedly tells them that "he is the land and he is the law" and at one point lifts his hands to generate the sound of thunder [^2].
 
 ### The offer
 
@@ -62,3 +62,5 @@ The party uses Benjamin to get to the skull of the dragon {{% mdref argynvost "A
 They also make Benjamin drink holy water to end his suffering. It doesn't succeed in killing him however.
 
 [^1]: No maggots!
+
+[^2]: Or real thunder - its hard to tell without windows.
