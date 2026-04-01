@@ -14,7 +14,7 @@ Before the undead were able to destroy the city, Lady Wachter was able to strike
 The Baron and Izek are apparently holed up inside the Barons Mansion. 
 
 The Group decides to head towards the Blue Water Inn, walking along streets lined with clear signs of the battle. The church is in bad shape, with rubble everywhere and signigicant fire damage. Before entering to the Blue Water Inn, the party visits the orphanage to talk to Milivoj. 
-He is still recovering but now awake and informs the party, that he sold the stolen bones to the coffin maker called Hendrick von der Vort and received his payment from a character the party recognizes as {{% mdref Anastrasia %}}. 
+He is still recovering but now awake and informs the party, that he sold the stolen bones to the coffin maker called Hendrick von der Vort and received his payment from a character the party recognizes as {{% mdref Anastrasya %}}. 
 
 At the "bluewater inn" everybody gets a room and the party decides to pay a visit to the coffin maker shop, which is located at the eastern gate. After luring away the two guards in front of the shop, the pary enters through the front door. Inside the workshop, there are 13 coffins and tools, which are common for a wood workshop. Reese detects magical items in a wardrobe and finds the stolen bones. 
 
