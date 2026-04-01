@@ -6,7 +6,7 @@ toc: true
 description: "The party rushes to the Barons estate, but instead of getting an audience needs to make a daring escape."
 ---
 
-## Leaving the Orphanage
+## Leaving the orphanage
 In the aftermath of the battle with the shadowy creature, the party realizes that there was an unfortunate casualty - a baby died in the nursery. Since there are no visible wounds on the body, {{% mdref thaddeus %}} gives up hope of helping it. Talking to {{% mdref claudia-blasko %}}, she is taken aback by the fight's consequences but goes back to keeping order and calm in the orphanage. Regarding Felix, she mentions another boy died in unknown circumstances and hands the party a locket, emanating with the same necromantic aura that surrounded Felix before. {{% mdref ilizeiros %}} puts it in his pocket.
 
 On the way following {{% mdref ireena-kolyana Ireena %}} to the Baron's estate, the party goes for lunch; {{% mdref yaroslav %}} warns of Boninka's pies, since he feels people forget their past troubles eating them. {{% mdref thaddeus %}} is too tempted and tries a bite, immediately feeling the warm feeling of delicious fullness; {{% mdref yaroslav %}} and {{% mdref ilizeiros %}} on the other hand buy a bowl of root soup from a street vendor.
