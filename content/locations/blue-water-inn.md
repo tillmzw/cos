@@ -7,4 +7,4 @@ description: A place of rest in a dark land.
 ---
 
 
-An inn in {{% mdref Vallaki vallaki %}}.
+An inn in {{% mdref vallaki Vallaki %}}.
