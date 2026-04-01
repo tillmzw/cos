@@ -16,7 +16,7 @@ The Baron and Izek are apparently holed up inside the Barons Mansion.
 The Group decides to head towards the Blue Water Inn, walking along streets lined with clear signs of the battle. The church is in bad shape, with rubble everywhere and signigicant fire damage. Before entering to the Blue Water Inn, the party visits the orphanage to talk to Milivoj. 
 He is still recovering but now awake and informs the party, that he sold the stolen bones to the coffin maker called Hendrick von der Vort and received his payment from a character the party recognizes as {{% mdref Anastrasya %}}. 
 
-At the "bluewater inn" everybody gets a room and the party decides to pay a visit to the coffin maker shop, which is located at the eastern gate. After luring away the two guards in front of the shop, the pary enters through the front door. Inside the workshop, there are 13 coffins and tools, which are common for a wood workshop. Reese detects magical items in a wardrobe and finds the stolen bones. 
+At the "Bluewater inn" everybody gets a room and the party decides to pay a visit to the coffin maker shop, which is located at the eastern gate. After luring away the two guards in front of the shop, the pary enters through the front door. Inside the workshop, there are 13 coffins and tools, which are common for a wood workshop. Reese detects magical items in a wardrobe and finds the stolen bones. 
 
 In order to return the stolen bones, the party makes its way back to the church. 
 After entering through a broken window in the back, it is quickly clear, that a massacre has taken place inside the church. 
@@ -28,6 +28,6 @@ The fire and noise attracted attention, a guard was looking through the boarded 
 
 Back in the  Blue Water Inn a chat with the Innkeeper reveales, that he might know something about The Keeper of the Feathers.
 Not much can be learned, but the pary is ensured, that the "Ravens of Barovia" are watching/guarding over them. 
-Furthermore, the party learns about an order of paladins who served a dragon called "Argynvost".
+Furthermore, the party learns about an order of paladins who served a dragon called {{% mdref argynvost Argynvost %}}.
 
 The party ends the day resting at the Blue Water Inn.
