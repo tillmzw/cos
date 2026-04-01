@@ -6,6 +6,6 @@ toc: false
 description: Fortified behind wooden palisades, the citizens of Vallaki seem to defy the dangers of Barovia
 ---
 
-Vallaki is a town larger than Barovia east of Barovia. It is surrounded by fortified pallisades, adorned with wolves heads.
+Vallaki is a town larger than Barovia west of {{% mdref castle-ravenloft %}}. It is surrounded by fortified pallisades, adorned with wolves heads.
 
 The populace is markedly more content than all other inhabitants of {{% mdref barovia %}} and defies {{% mdref strahd-of-zarovich %}} whom it calls "*the Devil*". Apparently, their morale is boosted through a weekly festival whose attendance is mandatory.
