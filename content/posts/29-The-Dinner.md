@@ -53,7 +53,7 @@ Strahd repeatedly tells them that "he is the land and he is the law" and at one 
 
 He offers an escape from {{% mdref barovia %}} if they deliver information about van Richten. But the offer is only valid for one of the adventurers. It seems to be  a ploy to turn the adventurers against each other. 
 
-## The Skull
+## The Dragon Skull
 
 After the dinner the party is once more free to explore the castle. Strahd explained to them that the locked doors are for their own safety.
 
