@@ -12,9 +12,9 @@ Yaroslav is KO. Regaining consciousness, he thanks the morning lord.
 
 Thaddeus appeared to be dead. But he holds on to life. Somehow.
 
-There is no remain of Anastrasya. Is she really dead?
+There are no remains of Anastrasya. Is she really dead?
 
-Ilizeiros takes the Sword and a suit of armour, Reese the amulet. It is magical and can cast spells apparently.
+Ilizeiros takes the Sword and a suit of armour, Reese the amulet. It is magical and can cast spells.
 
 The party return to van Richtens tower where they sent Ezmeralda. As they arrive, they see her and van Richten arguing.
 
