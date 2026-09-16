@@ -6,7 +6,7 @@ toc: false
 description: "The party gets lost in a swamp "
 ---
 
-Multiple members of the party are cursed. They decide to turn around and go to Van Richtens tower.
+Multiple members of the party are cursed. They decide to turn around and go to Van Richtens tower for help. There they encounter Van Richten and Ezmeralda.
 
 There they learn that their best chance is Baba Lysaga, a witch who lives in a swamp.
 
