@@ -1,6 +1,6 @@
 ---
 title: The Swamp
-date: 2026-07-23
+date: 2026-08-06
 draft: false
 toc: false
 description: "The party gets lost in a swamp "
