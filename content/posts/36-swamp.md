@@ -6,9 +6,9 @@ toc: false
 description: "The party gets lost in a swamp "
 ---
 
-## Curse
+## The Curse
 
-Multiple members of the party are cursed: {{% mdref reese %}}, {{% mdref yaroslav %}} and {{% mdref thaddeus %}}. The party argues among itself for a  while and decides in the end not to go to the amber crypt just now. They turn around and head for Van Richtens tower. There they encounter {{% mdref rudolf-van-richten "van Richten" %}} and {{% mdref Ezmeralda %}}.
+Multiple members of the party are cursed: {{% mdref reese %}}, {{% mdref yaroslav %}} and {{% mdref thaddeus %}}. The party argues among itself for a  while and decides in the end that the amber crypt can wait. They turn around and head for Vvan Richtens tower. There they encounter {{% mdref rudolf-van-richten "van Richten" %}} and {{% mdref Ezmeralda %}}.
 
 ## Salvation in the swamp?
 
