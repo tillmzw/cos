@@ -28,10 +28,8 @@ The party gets the impression the old man underestimates Strahd.
 
 The party decides to return to {{% mdref Vallaki %}} and topple the Strahd-friendly {{% mdref fiona-wachter "Lady Wachter" %}}.
 
-They meet up with the old Burgomaster and convince him that a well place speech will help him return to power.
+They meet up with the old Burgomaster - {{% mdref vargas-vallakovich %}} - and convince him that a well place speech will help him return to power.
 
-To gather information they sneak into Lady Wachters cellar.
-
-There they are surrounded and attacked by skeletons.
+To gather information they sneak into Lady Wachters cellar. They manage to sneak into the cellar without being noticed, but once they enter the first room, they are surrounded and attacked by skeletons.
 
 
