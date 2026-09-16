@@ -6,7 +6,7 @@ toc: false
 description: "Battle ensues in the crypt of Argynvostholt"
 ---
 
-The next few minutes bear witness to an intense fight: with Yaroslav desparately attempting to keep the undead hordes outside the crypt Reese, Thaddeus and Ilizeiros fight inside to keep the bones undisturbed for a few more moments. Meanwhile, Anastrasya and a Strahd doppelganger attempt to break the ritual that ensues. Piece by piece the mortal remains of Argynvost join together in the central column to form a bright spectral dragon. Holding off the evil forces of Barovia comes at a price: Yaroslav manages to barely hold onto his life but Thaddeus is not as lucky: he is mortally wounded by Anastrasya.
+The next few minutes bear witness to an intense fight: with {{% mdref Yaroslav %}} desparately attempting to keep the undead hordes outside the crypt {{% mdref Reese %}}, {{% mdref Thaddeus %}} and {{% mdref Ilizeiros %}} fight inside to keep the bones undisturbed for a few more moments. Meanwhile, Anastrasya and a Strahd doppelganger attempt to break the ritual that ensues. Piece by piece the mortal remains of Argynvost join together in the central column to form a bright spectral dragon. Holding off the evil forces of Barovia comes at a price: Yaroslav manages to barely hold onto his life but Thaddeus is not as lucky: he is mortally wounded by Anastrasya.
 
 After the ritual completes, the completed dragon spectre rises through the crypts roof and pierces the local cloud cover. In this moment - likely the first time in centuries - pure golden sunlight touches the ground around Argynvostholt. 
 
