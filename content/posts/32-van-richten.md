@@ -26,7 +26,7 @@ Despite numerous attempts he doesn't want to divulge secrets about his plan.
 
 The party gets the impression the old man underestimates Strahd.
 
-The party decides to return to Vallaki and topple the Strahd-friendly {{% mdref fiona-wachter "Lady Wachter" %}}.
+The party decides to return to {{% mdref Vallaki %}} and topple the Strahd-friendly {{% mdref fiona-wachter "Lady Wachter" %}}.
 
 They meet up with the old Burgomaster and convince him that a well place speech will help him return to power.
 
