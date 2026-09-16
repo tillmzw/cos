@@ -10,11 +10,11 @@ description: "The party encounters Van Richten"
 
 The party overlooks the aftermath of the battle. {{% mdref Yaroslav %}} is KO. Regaining consciousness, he thanks the morning lord.
 
-Thaddeus appeared to be dead. But he holds on to life. Somehow.
+{{% mdref Thaddeus %}} appeared to be dead. But he holds on to life. Somehow.
 
-There are no remains of Anastrasya. Is she really dead?
+There are no remains of {{% mdref Anastrasya %}}. Is she really dead?
 
-Ilizeiros takes the Sword and dons a suit of armour, Reese the amulet. It is magical and can cast spells.
+{{% mdref Ilizeiros %}} takes the Sword and dons a suit of armour, {{% mdref Reese %}} the amulet. It is magical and can cast spells.
 
 ## Back to van Richtens Tower
 
