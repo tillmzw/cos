@@ -14,9 +14,9 @@ Thaddeus discovers a secret door leading to horrifying room:
 
 There is a large pentagram and a large number of body parts on the floor, the coffin maker is tied up on the ceiling a hooded figure is sitting on the chair. Next to the hooded figure is a book. In the corner of the room there is a ghostly figure of girl watching them.
 
-The party first frees the coffin maker and interrogates the hooded figure. He first resists but after intimidation by Ilizeiros, calls for repentance by Yaroslav and mind probing by Reese, he reveals everything. His name is Radowan and he works for Lady Wachter. He tortures and murders people for her and then chops up their bodys. This is also the room, where Lady Wachter assembled the original conspirators to take over the city. The book contains names of Baron-loyalists.
+The party first frees the coffin maker and interrogates the hooded figure. He first resists but after intimidation by {{% mdref ilizeiros %}}, calls for repentance by {{% mdref yaroslav %}} and mind probing by Reese, he reveals everything. His name is Radowan and he works for Lady Wachter. He tortures and murders people for her and then chops up their bodys. This is also the room, where Lady Wachter assembled the original conspirators to take over the city. The book contains names of Baron-loyalists.
 
-The ghost of the girl in the corner is Kalla and Radowan is scared of her - rightfully so. It turns out, she is a Banshee and wants a revenge on whoever killed her. Reese tells her it was Lady Wachter.
+The ghost of the girl in the corner is Kalla and Radowan is scared of her - rightfully so. It turns out, she is a Banshee and wants a revenge on whoever killed her. {{% mdref reese %}} tells her it was Lady Wachter.
 
 ## The coup
 
