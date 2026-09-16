@@ -8,7 +8,7 @@ description: "The party sets things right in Vallaki"
 
 ## Secrets in the cellar
 
-The party disposes of the skeletons quite easily without alerting anyone in the Mansion of {{% mdref fiona-wachter "Lady Wachter" %}}.
+The party disposes of the skeletons quite easily without alerting anyone in the mansion of {{% mdref fiona-wachter "Lady Wachter" %}}.
 
 Thaddeus discovers a secret door leading to horrifying room:
 
