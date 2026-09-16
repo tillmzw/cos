@@ -1,5 +1,5 @@
 ---
-title: Werewolves
+title: Caught by Werewolves
 date: 2026-06-25
 draft: false
 toc: false
