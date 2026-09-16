@@ -30,7 +30,7 @@ The party decides to return to Vallaki and topple the Strahd-friendly {{% mdref 
 
 They meet up with the old Burgomaster and convince him that a well place speech will help him return to power.
 
-To gather information they sneakt into Lady Wachters cellar.
+To gather information they sneak into Lady Wachters cellar.
 
 There they are surrounded and attacked by skeletons.
 
