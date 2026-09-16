@@ -18,7 +18,7 @@ There are no remains of {{% mdref Anastrasya %}}. Is she really dead?
 
 ## Back to van Richtens Tower
 
-The party return to van Richtens tower where they sent Ezmeralda. As they arrive, they see her and van Richten arguing.
+The party return to van Richtens tower where they sent Ezmeralda. As they arrive, they see her and  {{% mdref rudolf-van-richten "van Richten" %}} arguing.
 
 They are arguing about his plan to defeat Strahd. It involves Ireena who is also there.
 
