@@ -8,9 +8,7 @@ description: "The party encounters Van Richten"
 
 ## The Aftermath of the Battle at Argynvost
 
-The party overlooks the aftermath of the battle.
-
-Yaroslav is KO. Regaining consciousness, he thanks the morning lord.
+The party overlooks the aftermath of the battle. {{% mdred Yaroslav %}} is KO. Regaining consciousness, he thanks the morning lord.
 
 Thaddeus appeared to be dead. But he holds on to life. Somehow.
 
