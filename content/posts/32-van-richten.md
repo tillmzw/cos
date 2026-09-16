@@ -6,7 +6,7 @@ toc: false
 description: "The party encounters Van Richten"
 ---
 
-## The Aftermath of the Battle at Argynvost
+## The Aftermath of the Battle at Argynvosthold
 
 The party overlooks the aftermath of the battle. {{% mdred Yaroslav %}} is KO. Regaining consciousness, he thanks the morning lord.
 
